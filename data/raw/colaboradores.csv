@@ -1,0 +1,201 @@
+id_colaborador;nome;id_departamento;cargo;data_admissao;salario
+1;Dra. Emilly Guerra;3;Gerente;2025-02-25;7459.91
+2;Emanuelly Borges;5;Estagiário;2022-10-03;10110.76
+3;Davi Luiz da Rocha;1;Coordenador;2024-01-14;4208.69
+4;Mariana Teixeira;1;Estagiário;2025-07-15;5435.51
+5;Lorena Barros;6;Coordenador;2024-02-22;4303.66
+6;Gustavo Henrique Duarte;1;Analista;2024-08-22;16706.58
+7;Sara Monteiro;6;Coordenador;2022-11-20;11405.06
+8;Dra. Nicole Cunha;5;Analista;2023-01-15;11031.35
+9;Dra. Camila Cunha;6;Estagiário;2024-05-05;8835.69
+10;Henry Gabriel Sá;4;Estagiário;2024-04-29;17725.94
+11;Pedro Henrique Novais;3;Analista;2024-10-08;8350.41
+12;Isadora Rios;2;Gerente;2022-09-09;9451.29
+13;Laís Alves;4;Analista;2023-04-15;15418.75
+14;Mirella Castro;4;Analista;2023-02-07;9140.55
+15;Maysa Pinto;5;Gerente;2024-08-01;9117.65
+16;Sofia Almeida;5;Estagiário;2024-12-29;9359.22
+17;Gabriel Silveira;3;Estagiário;2024-10-15;16797.43
+18;Laura Sales;2;Coordenador;2024-08-02;15719.72
+19;Maria Luiza Caldeira;3;Gerente;2023-11-01;5697.52
+20;Ester Rios;3;Gerente;2023-03-27;17570.4
+21;Dra. Ayla Câmara;6;Estagiário;2023-06-05;10560.07
+22;João Miguel Guerra;6;Analista;2024-04-10;19290.92
+23;Ravi Peixoto;5;Coordenador;2025-07-21;15350.08
+24;Sofia Fernandes;6;Analista;2025-03-12;15399.6
+25;Luiz Miguel Ramos;4;Estagiário;2025-05-08;8641.52
+26;Júlia Alves;1;Gerente;2024-09-26;5742.17
+27;Juan Silveira;1;Estagiário;2023-09-28;6735.64
+28;Sra. Marcela Souza;2;Analista;2023-05-19;18154.87
+29;Rafaela Gonçalves;5;Analista;2024-07-04;9076.85
+30;Sra. Clara Campos;3;Analista;2024-08-19;5090.6
+31;Melissa Novais;4;Coordenador;2024-02-29;18913.66
+32;Benício Jesus;2;Coordenador;2023-10-22;11893.81
+33;Giovanna Barbosa;1;Estagiário;2024-02-16;17584.23
+34;Maysa Siqueira;6;Analista;2025-03-09;7117.34
+35;Sr. Heitor Lopes;6;Coordenador;2024-08-08;17342.88
+36;Apollo Caldeira;3;Gerente;2025-05-06;11003.79
+37;Maya Marques;3;Coordenador;2023-12-19;10731.67
+38;Luiz Henrique Abreu;5;Coordenador;2024-01-18;10237.52
+39;Daniela Lopes;6;Coordenador;2024-06-01;16292.8
+40;Gabrielly Moura;1;Coordenador;2023-05-30;19035.44
+41;Sr. Danilo Gomes;1;Gerente;2023-09-14;4802.37
+42;Dr. Felipe Leão;1;Analista;2023-05-27;14874.46
+43;Joaquim Gonçalves;3;Estagiário;2023-10-12;16135.06
+44;Isabela da Paz;3;Analista;2022-11-28;16864.17
+45;Paulo da Cruz;5;Gerente;2024-02-04;12558.52
+46;Leonardo Sousa;5;Gerente;2022-12-20;7892.03
+47;Helena Albuquerque;5;Estagiário;2023-06-15;14181.44
+48;Luiz Henrique Sales;3;Coordenador;2024-01-22;3733.77
+49;Davi Lucca Cirino;6;Coordenador;2023-05-29;6623.87
+50;Dra. Amanda Sampaio;3;Coordenador;2025-08-31;17697.82
+51;Sr. João Miguel Porto;6;Gerente;2025-02-15;9492.2
+52;Maria Sophia Câmara;4;Gerente;2023-08-31;14017.92
+53;Dr. Lucas Guerra;4;Coordenador;2023-11-17;10974.41
+54;Erick Câmara;4;Coordenador;2023-07-27;8561.49
+55;Ana Beatriz Nascimento;2;Gerente;2025-02-18;12316.62
+56;Ana Vitória Nunes;6;Estagiário;2022-11-04;16803.19
+57;Letícia Carvalho;5;Estagiário;2023-04-04;17258.94
+58;Maria Isis Jesus;1;Gerente;2023-06-20;12549.84
+59;André Melo;3;Analista;2025-07-14;11283.45
+60;Luigi da Mota;4;Gerente;2023-06-18;6637.36
+61;Anna Liz Pinto;1;Coordenador;2024-10-20;6910.3
+62;Ana Lívia Borges;4;Analista;2024-09-05;8067.99
+63;Fernando Montenegro;1;Estagiário;2023-05-16;17076.53
+64;Maria Laura Machado;5;Gerente;2025-07-09;10782.37
+65;Ana Liz da Rocha;1;Analista;2022-12-24;16742.44
+66;Ravi Lucca Gomes;2;Estagiário;2024-09-16;7481.87
+67;Vitor Moura;4;Gerente;2022-10-29;4464.96
+68;Lorena da Conceição;3;Analista;2022-11-02;4533.15
+69;Liam Duarte;5;Coordenador;2024-01-14;13129.98
+70;Maria Helena Souza;6;Estagiário;2024-07-29;16860.48
+71;Lorenzo Cardoso;5;Analista;2023-11-23;6473.3
+72;Breno Gonçalves;3;Estagiário;2023-05-23;7676.54
+73;Sr. Rael Peixoto;6;Analista;2025-06-14;10555.64
+74;Raquel Moraes;2;Estagiário;2024-04-27;16968.05
+75;Lívia Pinto;1;Analista;2022-10-31;19955.09
+76;Benício Moura;5;Estagiário;2023-02-22;15861.68
+77;Maria Liz Souza;1;Estagiário;2025-06-16;7351.5
+78;Sra. Mirella Fernandes;4;Estagiário;2024-01-07;18832.53
+79;Fernando Marques;6;Estagiário;2023-09-27;12308.65
+80;Bruna Rocha;2;Analista;2023-02-15;3868.04
+81;Ayla Fernandes;5;Coordenador;2025-08-22;16200.85
+82;Sr. Raul Pastor;3;Estagiário;2024-07-04;5496.17
+83;Luana Mendes;4;Gerente;2024-05-20;12437.02
+84;Henry Gabriel Vieira;6;Analista;2024-10-24;19462.11
+85;Marcos Vinicius Caldeira;1;Coordenador;2024-09-26;14433.13
+86;Théo da Rocha;1;Gerente;2024-02-06;19936.66
+87;Pedro Montenegro;3;Gerente;2025-01-26;8548.66
+88;Lívia das Neves;3;Coordenador;2024-09-12;19417.98
+89;Dr. Pedro Miguel da Paz;2;Estagiário;2023-06-26;18174.21
+90;Arthur Mendonça;3;Analista;2024-03-19;17947.76
+91;Pedro Miguel Viana;2;Analista;2023-08-31;10349.0
+92;Antonella Caldeira;2;Estagiário;2023-05-13;14887.51
+93;Maysa Pacheco;1;Estagiário;2022-09-24;17798.1
+94;Gabrielly Brito;5;Coordenador;2025-04-16;16434.54
+95;João Felipe Teixeira;5;Coordenador;2022-12-29;8994.42
+96;Vitor Costa;5;Coordenador;2025-01-13;3982.97
+97;Giovanna da Mata;3;Estagiário;2024-06-28;12129.16
+98;Murilo Martins;5;Gerente;2025-01-18;18504.38
+99;Luiza Fernandes;6;Analista;2023-12-31;6540.22
+100;Ayla Dias;1;Gerente;2024-06-10;14034.07
+101;Samuel Mendonça;4;Analista;2023-06-03;17443.1
+102;Ana Clara Leão;4;Analista;2022-11-22;14368.55
+103;Dr. Léo Barbosa;2;Estagiário;2023-10-18;17306.15
+104;Milena Machado;2;Estagiário;2023-03-29;6779.44
+105;Rafael Vieira;2;Coordenador;2024-12-25;18773.09
+106;Theodoro das Neves;5;Gerente;2023-06-15;8659.87
+107;Sra. Maria Vitória Souza;4;Coordenador;2024-07-18;5104.59
+108;Mariane Ferreira;3;Analista;2024-01-16;4324.13
+109;Letícia Silva;6;Gerente;2022-11-01;11101.5
+110;Pedro Lucas Mendes;5;Gerente;2023-02-06;8737.89
+111;Valentina Pereira;3;Coordenador;2023-07-05;7048.04
+112;Agatha Oliveira;2;Estagiário;2024-12-23;7706.27
+113;Cecília Silva;1;Gerente;2025-01-29;18814.52
+114;Henry Gabriel Cavalcante;3;Coordenador;2025-04-29;14525.04
+115;Mariana Siqueira;2;Estagiário;2025-07-18;12017.27
+116;Enzo da Rosa;4;Analista;2023-07-04;3640.57
+117;Laura da Luz;6;Estagiário;2022-09-26;3001.03
+118;Melina Monteiro;1;Coordenador;2022-10-30;5990.62
+119;Luna Santos;2;Analista;2022-11-11;18507.46
+120;Isaque Montenegro;5;Gerente;2022-09-25;12417.19
+121;Pedro Henrique da Paz;5;Gerente;2023-06-08;6290.05
+122;Sr. Arthur Alves;4;Estagiário;2024-08-29;12512.81
+123;Thiago Oliveira;6;Estagiário;2023-03-08;13023.3
+124;Clarice Câmara;3;Analista;2024-08-16;15088.41
+125;Alice Pastor;1;Estagiário;2024-06-04;12116.87
+126;Juliana Campos;1;Estagiário;2024-05-09;13906.95
+127;João Gabriel Correia;4;Estagiário;2025-01-28;9825.12
+128;Maria Isis Guerra;4;Gerente;2023-07-14;11073.96
+129;Luiz Henrique Souza;1;Analista;2024-07-14;19247.36
+130;Maria Luiza Vargas;3;Analista;2024-09-17;5160.86
+131;Sr. Breno Fonseca;2;Coordenador;2024-12-18;5709.66
+132;Bruna Leão;3;Analista;2023-05-23;15604.13
+133;Theodoro Costela;3;Estagiário;2025-06-03;4988.0
+134;Gabrielly da Rosa;5;Analista;2023-06-24;14927.71
+135;Allana Silva;5;Estagiário;2024-06-07;7410.3
+136;Benjamin Garcia;1;Estagiário;2023-08-31;13714.21
+137;Srta. Manuella Gomes;6;Gerente;2023-02-13;7592.67
+138;Renan Pastor;6;Analista;2024-04-27;9551.62
+139;Alice Peixoto;6;Coordenador;2024-08-10;8463.76
+140;Vitor Hugo da Cruz;2;Coordenador;2023-05-08;8781.08
+141;Juan Fernandes;6;Analista;2022-11-04;18964.18
+142;Asafe Pacheco;2;Analista;2024-08-02;10981.53
+143;João Silveira;5;Coordenador;2024-04-27;8091.39
+144;Dra. Alexia Santos;1;Gerente;2023-08-12;3580.92
+145;Milena Sá;3;Estagiário;2025-06-08;6412.41
+146;Esther Martins;4;Analista;2025-05-26;19560.33
+147;Srta. Maria Alice Montenegro;6;Gerente;2024-11-13;8553.99
+148;Carolina Albuquerque;5;Estagiário;2022-09-08;15432.21
+149;Sophie da Cunha;6;Coordenador;2022-12-12;18508.25
+150;Dra. Maria Vitória Montenegro;6;Estagiário;2025-02-06;12719.97
+151;Dra. Isabela Machado;5;Coordenador;2023-09-24;6511.28
+152;Ravi Lucca Costa;6;Gerente;2023-05-10;8293.75
+153;Luiz Gustavo Pastor;3;Analista;2024-04-03;6248.81
+154;Sra. Mariane Vargas;4;Estagiário;2025-05-25;10178.89
+155;Enzo Gabriel Abreu;3;Analista;2025-04-19;6031.71
+156;Eduarda Ferreira;4;Gerente;2024-03-11;11276.72
+157;Sr. Pedro Lucas Viana;6;Analista;2023-02-25;18777.3
+158;Maria Sophia Albuquerque;2;Estagiário;2025-04-30;7079.99
+159;Vicente Abreu;4;Estagiário;2024-03-28;18331.5
+160;Thales da Mota;1;Gerente;2023-03-11;11623.88
+161;Dr. Caleb Brito;4;Gerente;2023-04-29;14547.18
+162;Benício da Rosa;3;Gerente;2024-12-11;6938.63
+163;Gabriela Monteiro;2;Gerente;2024-07-16;14881.84
+164;Dr. Ryan Peixoto;2;Coordenador;2023-11-14;5365.48
+165;Eloá Sales;2;Coordenador;2024-03-24;14702.87
+166;Dr. Marcos Vinicius Teixeira;2;Gerente;2024-05-04;18899.99
+167;Sophie Pires;6;Estagiário;2023-05-19;16654.19
+168;Davi Luiz Pereira;3;Estagiário;2023-03-26;13203.11
+169;Ana Júlia Peixoto;6;Analista;2024-06-12;8239.79
+170;Agatha Albuquerque;2;Estagiário;2024-04-20;12858.38
+171;Noah da Mata;6;Coordenador;2025-04-08;15002.72
+172;Gabriel Viana;6;Coordenador;2022-12-18;13810.11
+173;Aurora Cunha;4;Analista;2023-01-24;5918.22
+174;Felipe Barros;3;Coordenador;2024-10-30;11468.92
+175;Clara Correia;4;Analista;2024-01-18;4867.02
+176;Danilo Pimenta;3;Estagiário;2025-04-17;8565.67
+177;Enzo Mendonça;3;Coordenador;2023-06-06;15725.06
+178;Ana Júlia Cassiano;1;Analista;2025-07-11;9889.92
+179;Henry Gabriel Duarte;5;Estagiário;2024-05-15;16259.43
+180;Lunna Duarte;4;Analista;2023-03-09;4628.85
+181;Ian Porto;1;Coordenador;2024-09-12;17034.66
+182;Antônio Cavalcante;6;Gerente;2023-02-23;17956.54
+183;Rodrigo Abreu;4;Analista;2024-06-15;7100.36
+184;Mathias Moraes;3;Estagiário;2023-01-27;16623.91
+185;Rodrigo Pastor;2;Estagiário;2022-10-31;4648.45
+186;Heloisa Martins;3;Gerente;2025-05-19;12078.29
+187;Valentim Brito;4;Coordenador;2024-12-19;13041.84
+188;Dr. Alexandre Silva;6;Gerente;2023-03-31;3891.22
+189;Luiz Otávio da Costa;2;Analista;2024-07-10;9105.82
+190;Antônio Macedo;1;Estagiário;2023-03-02;3509.13
+191;João Miguel Abreu;3;Estagiário;2022-09-06;15912.12
+192;Ágatha Barbosa;5;Coordenador;2025-05-13;17054.11
+193;Sr. Marcelo Costa;3;Estagiário;2024-05-29;9023.95
+194;Sr. Dante Vieira;3;Analista;2023-04-07;11321.31
+195;Gabriela Pires;2;Coordenador;2024-08-30;11135.74
+196;Milena Ramos;2;Estagiário;2025-04-27;15938.29
+197;Bruna Cavalcanti;5;Estagiário;2025-04-17;17127.94
+198;Catarina da Mata;2;Estagiário;2023-11-25;6407.19
+199;Bárbara Machado;2;Coordenador;2025-08-28;4285.47
+200;Anthony Gabriel Ribeiro;2;Coordenador;2025-03-10;7147.0

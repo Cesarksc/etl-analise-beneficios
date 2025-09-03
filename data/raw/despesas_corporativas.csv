@@ -1,0 +1,1001 @@
+id_despesa;id_colaborador;categoria;valor;data;descricao
+1;164;Hospedagem;2490.49;2025-06-29;Ex nisi dolorum.
+2;26;Viagem;349.95;2025-02-20;Fugit consequatur soluta enim.
+3;26;Hospedagem;231.22;2024-12-22;Repudiandae soluta cum autem dolore.
+4;61;Equipamento;2739.4;2024-10-22;Unde fuga sit perspiciatis iste maxime.
+5;184;Equipamento;2798.41;2025-03-27;Nemo nemo magnam.
+6;180;Refeição;986.12;2025-04-15;Enim ex nobis error magni.
+7;187;Equipamento;2902.6;2025-03-30;Voluptates omnis molestiae eius laborum.
+8;143;Equipamento;2217.05;2025-08-17;Officia dolor deleniti magni harum totam.
+9;10;Transporte;429.52;2024-10-26;Assumenda eveniet quo suscipit dolores.
+10;81;Viagem;1357.62;2025-01-29;Provident ipsam a.
+11;68;Hospedagem;160.2;2025-06-07;At reiciendis quas eaque.
+12;15;Viagem;2661.72;2025-05-12;Cupiditate quae reprehenderit minus.
+13;88;Transporte;77.97;2025-02-21;Recusandae saepe sequi odio voluptatibus.
+14;81;Transporte;2911.09;2024-12-07;Saepe rem similique totam hic dolore commodi.
+15;126;Refeição;2670.51;2024-09-02;Nesciunt fugiat ratione harum magnam numquam.
+16;164;Outros;1878.05;2024-12-29;Quia alias eveniet officia quod.
+17;133;Refeição;1781.64;2024-11-10;Sequi harum eos repellendus quis voluptates.
+18;154;Transporte;1464.75;2025-02-09;Odio quasi nulla reprehenderit enim.
+19;56;Equipamento;2471.2;2025-02-09;Autem laboriosam sint adipisci.
+20;157;Outros;2727.07;2025-04-08;Qui consectetur quo.
+21;116;Equipamento;2761.71;2024-09-02;Id esse voluptatibus.
+22;49;Outros;1497.48;2025-06-09;Vero pariatur at quasi.
+23;14;Viagem;2486.0;2024-11-18;Voluptates cum aut qui ut eum.
+24;128;Hospedagem;1717.38;2025-01-03;Facere vel quod quisquam vel.
+25;182;Equipamento;281.77;2025-08-20;Facilis ducimus dolorem.
+26;78;Transporte;267.93;2025-02-19;Qui debitis deserunt cumque neque necessitatibus.
+27;51;Refeição;1062.62;2024-12-04;Tempore quo in nulla aut.
+28;125;Equipamento;1643.67;2025-02-06;Mollitia illum praesentium ea fugiat saepe.
+29;140;Viagem;193.87;2025-08-11;Unde delectus quae sapiente beatae est.
+30;112;Refeição;642.75;2024-11-13;Esse dolorem quidem.
+31;28;Viagem;786.43;2025-04-07;Corporis voluptatibus aspernatur itaque inventore distinctio.
+32;47;Refeição;180.74;2024-12-20;Eos optio ea nostrum rem suscipit.
+33;11;Refeição;2015.03;2025-04-30;Voluptate dolor esse veniam.
+34;33;Refeição;1342.97;2025-04-17;Numquam nobis optio voluptates tempora.
+35;60;Equipamento;1250.7;2024-11-05;Debitis eveniet vero ipsum.
+36;36;Viagem;1749.27;2025-03-11;Distinctio impedit praesentium quibusdam.
+37;161;Equipamento;1825.15;2025-02-28;Facere corrupti sapiente at sed.
+38;27;Transporte;2123.99;2025-08-25;Sit voluptas unde accusamus consequatur.
+39;131;Viagem;926.21;2025-02-06;Sapiente praesentium quibusdam repudiandae consectetur.
+40;68;Outros;1831.47;2025-02-12;Eius possimus ipsum quas totam.
+41;102;Transporte;2597.39;2025-02-19;Doloribus ex tenetur tempora.
+42;69;Equipamento;1343.77;2025-04-09;Doloribus tempora soluta eaque minima.
+43;32;Viagem;1952.29;2025-05-03;Unde suscipit ipsum alias voluptate.
+44;7;Refeição;1406.09;2024-09-15;Vero dolores exercitationem.
+45;13;Refeição;2417.03;2025-08-19;Culpa quae voluptate placeat.
+46;136;Transporte;2218.84;2025-06-17;Exercitationem ducimus velit impedit reprehenderit.
+47;190;Transporte;2679.31;2025-06-18;Quidem itaque sequi quam minus.
+48;84;Outros;974.61;2025-06-06;Ipsa error itaque.
+49;150;Viagem;2300.46;2024-09-02;Voluptatem quas ipsa quia earum dolorem.
+50;28;Viagem;1698.53;2024-09-14;Doloribus eveniet suscipit.
+51;100;Equipamento;2429.74;2024-10-28;Id ad totam cumque commodi.
+52;197;Viagem;1295.61;2025-01-16;Voluptas ducimus repellendus quam beatae.
+53;190;Equipamento;2283.84;2024-11-07;Numquam vitae cumque tempore eligendi dignissimos.
+54;52;Refeição;2932.31;2025-04-10;Velit autem debitis accusantium porro.
+55;107;Hospedagem;1583.03;2025-08-01;Explicabo quisquam voluptates nemo mollitia.
+56;38;Refeição;56.42;2025-01-14;Qui consequatur accusantium.
+57;117;Refeição;1401.74;2024-09-29;Labore omnis doloribus repellendus id.
+58;144;Refeição;848.41;2025-04-08;Sint inventore fugiat nemo laudantium.
+59;11;Viagem;1879.64;2025-02-21;Ipsum illum illo ea itaque.
+60;42;Refeição;2921.14;2025-02-03;Hic laboriosam quisquam.
+61;189;Outros;1766.52;2025-05-16;Perferendis voluptatum fuga fugiat esse.
+62;42;Outros;336.43;2025-05-22;A officia cum rerum.
+63;98;Equipamento;2941.61;2025-07-23;Temporibus labore iure quasi laboriosam nulla.
+64;154;Hospedagem;1824.54;2025-01-28;Perspiciatis rerum voluptatem porro.
+65;165;Outros;2782.98;2025-08-29;Deserunt non adipisci quae repellat saepe.
+66;120;Viagem;1150.91;2024-10-28;Dolorum possimus facere voluptates.
+67;68;Viagem;1595.17;2025-04-04;Error facere similique accusamus.
+68;53;Equipamento;2071.93;2025-04-26;Eligendi iusto facilis tempore iusto.
+69;139;Equipamento;1652.1;2025-04-17;Voluptas minima pariatur.
+70;47;Hospedagem;1770.0;2025-04-11;Dolores labore dicta.
+71;12;Equipamento;787.56;2025-01-18;Dolorem nemo enim.
+72;27;Viagem;1530.86;2024-11-19;Maxime voluptatibus neque corrupti dolor ducimus.
+73;20;Refeição;1525.47;2025-08-09;Quos neque vitae voluptatem qui quod.
+74;8;Viagem;2915.84;2025-01-25;Quisquam cum voluptas nobis provident quis.
+75;185;Equipamento;1187.57;2025-08-26;Earum enim nam asperiores recusandae esse.
+76;183;Outros;2834.68;2024-10-08;Qui aperiam ratione eius recusandae.
+77;129;Viagem;2584.89;2024-10-17;Sapiente et nesciunt porro quod.
+78;2;Refeição;2989.2;2024-09-16;Quia ea assumenda.
+79;133;Refeição;2645.77;2024-12-02;Quos quo ex iure.
+80;198;Outros;2512.02;2025-05-21;Rerum corrupti saepe.
+81;101;Equipamento;472.22;2024-11-24;Expedita beatae iste.
+82;77;Hospedagem;1847.12;2025-03-11;Culpa rem sed saepe voluptas cumque.
+83;43;Outros;790.17;2024-11-07;Quas voluptatum facere.
+84;11;Hospedagem;565.59;2024-12-31;Sint cupiditate nam.
+85;104;Transporte;2562.55;2025-04-04;Sit pariatur esse recusandae perferendis.
+86;190;Hospedagem;2279.99;2024-10-08;Amet nostrum voluptatum.
+87;103;Outros;1923.83;2024-09-28;Ut qui repudiandae.
+88;90;Refeição;627.78;2025-05-11;Doloremque eum officiis odit nulla.
+89;148;Viagem;1413.11;2025-05-24;Ipsam eos minus.
+90;82;Equipamento;1428.03;2025-01-19;Consequuntur suscipit vitae sapiente sunt.
+91;4;Viagem;924.58;2025-01-08;Quos a soluta excepturi deserunt.
+92;151;Equipamento;437.24;2024-11-07;Dicta aliquid cumque.
+93;45;Transporte;136.56;2025-08-03;Minus quos quo.
+94;59;Transporte;1502.0;2025-07-29;Minima inventore pariatur omnis tempore harum.
+95;137;Viagem;843.28;2025-05-20;Maiores assumenda rerum deleniti deserunt accusantium.
+96;22;Refeição;1226.56;2024-12-03;Beatae vel pariatur consequuntur dolorum neque.
+97;200;Equipamento;2209.77;2025-02-13;Dolorem quae commodi dolor est veniam.
+98;18;Outros;2849.61;2025-06-02;Doloremque distinctio fugiat.
+99;30;Outros;80.23;2025-08-24;Illo placeat similique aspernatur aperiam.
+100;196;Viagem;772.05;2025-08-02;Expedita cumque veniam sunt.
+101;68;Equipamento;496.68;2025-02-15;Omnis recusandae dolores quaerat.
+102;22;Refeição;1669.39;2025-06-30;Aut eligendi deserunt.
+103;101;Refeição;2261.78;2025-06-07;Inventore ipsum asperiores porro.
+104;144;Viagem;1427.76;2025-03-10;Officiis aspernatur totam.
+105;126;Hospedagem;2662.64;2025-08-05;Temporibus laboriosam illum minus.
+106;182;Hospedagem;1365.07;2025-08-16;Aliquid architecto eum placeat.
+107;61;Outros;1324.95;2025-08-21;Maxime molestias vero.
+108;64;Outros;1841.29;2024-10-29;Quia aspernatur aspernatur maiores impedit.
+109;46;Outros;770.74;2025-08-20;Natus sapiente officia provident aut.
+110;109;Hospedagem;2527.8;2025-02-16;Quod eligendi natus consequatur.
+111;11;Transporte;2498.13;2024-11-16;Nesciunt assumenda aut vel.
+112;179;Outros;478.02;2025-06-20;Sed accusamus eveniet a.
+113;21;Hospedagem;1624.74;2024-10-02;Eveniet magni distinctio iste odit.
+114;132;Outros;1797.43;2025-06-14;Delectus nulla cumque cum similique neque.
+115;39;Equipamento;1303.51;2025-08-02;Assumenda quis similique corrupti.
+116;115;Hospedagem;399.62;2025-01-06;Iusto tempore quasi vero ex.
+117;93;Equipamento;210.19;2024-10-28;Quam doloribus quod debitis maxime.
+118;168;Viagem;943.05;2024-10-23;Ex quo aperiam.
+119;18;Viagem;412.53;2025-01-02;Reiciendis commodi minus illum.
+120;6;Hospedagem;2919.41;2025-03-25;Laboriosam assumenda fugit libero.
+121;59;Transporte;252.98;2025-05-21;Tenetur natus incidunt voluptas amet qui.
+122;108;Viagem;2896.19;2025-04-12;Ab at consectetur magni quisquam minima.
+123;18;Outros;950.06;2025-04-19;Vitae ab officia autem aliquam.
+124;147;Equipamento;618.51;2025-06-28;Quibusdam incidunt atque.
+125;21;Viagem;1210.31;2025-01-20;Sequi hic optio.
+126;47;Refeição;976.63;2025-05-25;Quae perferendis nulla reiciendis aliquid optio.
+127;191;Transporte;319.82;2025-08-16;Illum dicta assumenda perferendis.
+128;62;Hospedagem;2716.28;2025-07-31;Labore quisquam placeat temporibus aspernatur.
+129;190;Refeição;2905.29;2025-07-31;Quasi mollitia natus.
+130;140;Outros;799.46;2025-05-25;Temporibus inventore molestias veniam.
+131;55;Outros;219.99;2025-06-14;Aliquid ad dolorum ab.
+132;103;Hospedagem;1336.0;2025-03-14;Facilis quod architecto dignissimos dignissimos aperiam.
+133;108;Equipamento;1192.98;2024-12-03;Dolores quasi quidem eum.
+134;82;Viagem;2173.01;2025-04-22;Reiciendis delectus consequuntur soluta vero.
+135;199;Transporte;438.31;2024-12-06;Fuga natus totam quaerat facilis.
+136;111;Refeição;2778.13;2024-09-18;Illo molestias laudantium aspernatur.
+137;63;Refeição;1902.21;2025-05-05;Accusantium aliquid molestias deserunt tenetur.
+138;86;Hospedagem;1753.38;2024-11-05;Architecto repellat ut facilis corporis laudantium.
+139;2;Equipamento;1837.69;2025-02-17;Itaque alias illum itaque officia odio.
+140;26;Outros;1924.56;2025-04-26;Harum ad voluptatibus.
+141;141;Hospedagem;634.82;2024-09-11;Hic odio dolore.
+142;156;Refeição;423.14;2025-02-25;Et nobis tenetur at.
+143;28;Viagem;1880.71;2025-07-13;Nesciunt doloremque eos ipsa.
+144;32;Transporte;2060.82;2025-02-23;Delectus officiis architecto culpa.
+145;13;Viagem;824.89;2025-05-18;Molestiae aperiam quis sint.
+146;136;Refeição;519.95;2024-11-24;Praesentium magnam pariatur.
+147;159;Refeição;863.1;2025-04-15;Id in deleniti cumque.
+148;95;Viagem;1161.82;2025-08-23;Odit doloribus reiciendis sit harum nemo.
+149;56;Outros;745.6;2025-06-25;Facilis laboriosam deleniti ipsam alias nostrum.
+150;70;Transporte;1474.05;2025-08-31;Nihil non facilis.
+151;18;Equipamento;1487.11;2025-07-06;Sapiente ad occaecati facilis.
+152;25;Viagem;54.98;2024-12-02;Ullam ea consequuntur nostrum tenetur.
+153;57;Refeição;2376.17;2025-08-21;Nostrum aperiam corporis ab doloribus provident.
+154;174;Outros;943.61;2025-02-21;Quasi doloribus repudiandae.
+155;143;Outros;1253.58;2025-08-20;Eveniet reiciendis delectus impedit.
+156;79;Equipamento;1694.87;2025-06-25;Eius ullam debitis perferendis eius repellendus.
+157;47;Refeição;94.11;2025-02-16;Quas laborum quis.
+158;114;Refeição;900.75;2025-04-05;Suscipit reprehenderit blanditiis architecto officiis.
+159;140;Transporte;1363.86;2024-12-31;Nesciunt ea commodi tempore.
+160;63;Viagem;448.53;2025-08-18;Cumque esse sed quisquam quidem iure.
+161;184;Equipamento;96.19;2024-10-08;Vel tenetur et optio sunt.
+162;48;Equipamento;915.04;2025-07-10;Qui ab fuga.
+163;170;Transporte;415.9;2024-12-12;Soluta debitis expedita eius occaecati.
+164;99;Viagem;2923.66;2024-10-17;Maxime vero enim dolore.
+165;20;Refeição;543.78;2025-02-28;Suscipit aperiam consequuntur fugit tempore.
+166;90;Outros;2418.25;2025-03-07;Minima optio asperiores voluptates.
+167;185;Outros;1868.89;2025-02-19;Eum vitae sapiente animi.
+168;129;Transporte;2156.66;2024-09-03;Illum tenetur consequuntur.
+169;139;Hospedagem;655.04;2025-05-20;Voluptatibus aperiam facilis ab.
+170;63;Transporte;1809.2;2025-05-21;Minima ipsa id repudiandae repellendus occaecati.
+171;153;Hospedagem;1990.11;2024-12-30;Aperiam architecto quasi consequuntur enim sit.
+172;18;Outros;51.11;2025-01-02;Labore quam eum.
+173;42;Transporte;635.88;2024-10-02;Ducimus quod deserunt beatae qui a.
+174;98;Equipamento;2045.94;2024-09-05;Aut ea dolorum quo.
+175;67;Refeição;1221.3;2025-07-10;A eligendi provident nihil.
+176;17;Equipamento;2574.49;2025-06-26;Sit quibusdam amet dolores at.
+177;166;Hospedagem;1089.05;2025-08-18;Veritatis veniam sit iusto impedit.
+178;55;Outros;289.29;2025-03-13;Vitae dolorum vel quibusdam officiis mollitia.
+179;129;Viagem;1078.32;2024-09-27;Porro at quo vero recusandae.
+180;155;Transporte;1292.34;2025-01-09;Saepe quaerat delectus.
+181;59;Refeição;307.89;2025-06-12;Aliquam cumque tenetur vel exercitationem.
+182;145;Refeição;2986.98;2024-09-11;Explicabo nesciunt cumque.
+183;23;Hospedagem;1708.87;2025-07-26;Fugiat illo consequuntur.
+184;76;Transporte;298.96;2025-05-26;Enim asperiores fugit aliquam.
+185;85;Equipamento;2622.61;2025-01-21;Inventore officia molestiae reprehenderit.
+186;161;Viagem;728.33;2024-09-14;Fuga blanditiis reprehenderit eum excepturi aliquam odit.
+187;107;Hospedagem;2054.06;2025-05-18;Mollitia sunt sequi nihil cum.
+188;78;Hospedagem;1356.24;2025-04-26;Deleniti id a.
+189;106;Refeição;1604.52;2024-09-02;Cum modi occaecati occaecati.
+190;126;Hospedagem;2274.51;2025-05-05;Vel eum a nisi reiciendis odit.
+191;117;Hospedagem;990.25;2025-04-05;Quam quibusdam rerum odit voluptatem quibusdam.
+192;173;Hospedagem;1068.4;2025-08-18;Nostrum aliquam iste perspiciatis repellat.
+193;145;Refeição;2398.06;2024-11-11;Eius voluptas atque dolor.
+194;31;Transporte;114.0;2025-06-20;Atque ratione impedit.
+195;110;Transporte;384.38;2025-02-06;Deleniti voluptates non ea ea.
+196;115;Equipamento;1802.32;2025-05-15;Cum odio vitae.
+197;17;Refeição;2947.65;2024-11-08;Nesciunt deserunt temporibus deserunt quam.
+198;143;Viagem;503.03;2025-08-23;Odit in sed nesciunt reiciendis hic.
+199;81;Hospedagem;1289.0;2024-10-27;Dicta occaecati laudantium velit.
+200;65;Outros;2346.49;2025-05-31;Doloribus saepe non fugiat reprehenderit excepturi.
+201;151;Viagem;627.76;2024-10-16;Quasi amet quaerat.
+202;196;Transporte;2092.37;2025-03-20;Distinctio repellendus necessitatibus impedit repellendus.
+203;79;Transporte;2129.39;2025-08-20;Dolorem vero qui architecto voluptatem quo perspiciatis.
+204;165;Viagem;1602.64;2025-04-13;Est facilis nemo aut nostrum.
+205;77;Outros;1070.61;2024-12-23;Fugit occaecati voluptate.
+206;1;Outros;894.84;2025-01-12;Perferendis ducimus totam velit sed.
+207;41;Viagem;2220.08;2024-09-15;Placeat dolorem in quae.
+208;197;Transporte;2556.41;2025-04-11;Possimus illum veritatis.
+209;187;Equipamento;2899.0;2024-12-12;Vitae corporis nostrum.
+210;118;Refeição;879.38;2024-11-26;Quod accusantium ex quae reprehenderit veritatis.
+211;54;Outros;986.89;2024-09-05;Ipsum rem minus soluta doloremque.
+212;50;Equipamento;1759.44;2025-04-13;Ab possimus temporibus quo molestiae.
+213;69;Equipamento;491.58;2025-05-26;Praesentium maiores exercitationem reiciendis quisquam aliquid.
+214;167;Hospedagem;2487.12;2025-03-19;Unde saepe tempora aliquid.
+215;75;Hospedagem;1710.65;2025-05-22;Quo quos optio explicabo.
+216;133;Refeição;2494.73;2025-03-13;Cumque voluptatibus aperiam quaerat.
+217;143;Transporte;1004.09;2024-09-13;Quam labore odit.
+218;45;Refeição;1789.79;2024-11-01;Atque neque dicta ratione quas veniam.
+219;133;Transporte;2983.36;2024-09-05;Dolore neque corrupti ipsam perspiciatis repellat.
+220;84;Hospedagem;336.08;2025-07-20;Dicta sapiente nemo perferendis necessitatibus.
+221;55;Refeição;2133.29;2025-05-30;Harum nesciunt vitae.
+222;4;Transporte;2479.36;2024-09-15;Odit rerum at praesentium voluptatibus.
+223;158;Refeição;968.15;2024-10-17;Enim cupiditate at mollitia rem alias.
+224;64;Equipamento;697.16;2025-08-05;Saepe dignissimos quisquam.
+225;149;Viagem;838.8;2024-09-19;Omnis ut a consequuntur.
+226;14;Outros;1027.38;2025-03-03;Explicabo ullam iste.
+227;107;Outros;125.13;2024-11-19;Rerum similique quibusdam veniam.
+228;48;Refeição;2677.08;2024-10-02;In sit eligendi nobis beatae.
+229;47;Viagem;1535.4;2025-06-19;Adipisci reiciendis est magni nobis quis.
+230;98;Outros;2378.79;2025-02-26;Atque soluta maxime sit.
+231;36;Refeição;2020.53;2025-07-02;Praesentium quaerat magni.
+232;103;Hospedagem;2335.61;2025-02-10;Reiciendis nihil ut quos.
+233;65;Refeição;1044.88;2025-07-23;Distinctio eligendi harum pariatur voluptatum.
+234;196;Hospedagem;2351.78;2025-04-01;Reiciendis sapiente reiciendis recusandae odio.
+235;168;Hospedagem;2010.89;2025-08-04;Rem quisquam occaecati mollitia quia beatae.
+236;61;Transporte;1397.18;2025-04-10;Asperiores magnam commodi aliquam tempore.
+237;112;Viagem;1137.95;2025-01-31;Nemo distinctio reprehenderit quidem.
+238;190;Transporte;1934.17;2025-04-22;Odit odio animi illum unde.
+239;77;Outros;1550.03;2025-04-16;Quod eum deserunt.
+240;45;Hospedagem;931.86;2024-09-01;Rerum earum tempore expedita nulla nobis.
+241;176;Outros;281.06;2024-09-11;Sed pariatur itaque sint blanditiis.
+242;125;Refeição;1381.07;2024-11-14;Quasi facilis unde.
+243;147;Refeição;2430.13;2025-03-27;Hic veniam tempore dolorem.
+244;47;Outros;113.66;2024-12-09;Dolore aliquid quam rem eos.
+245;120;Transporte;330.34;2024-10-09;Quae aperiam quod placeat.
+246;128;Refeição;1863.19;2025-06-09;Eaque tempora accusantium aliquid excepturi.
+247;145;Transporte;1168.86;2025-06-25;Possimus sunt doloribus illo illum.
+248;188;Hospedagem;1463.94;2024-10-07;Eum in recusandae.
+249;73;Transporte;906.52;2025-08-23;Occaecati sunt dolore inventore.
+250;59;Hospedagem;270.37;2025-03-31;Sequi sequi aliquam.
+251;72;Refeição;1496.39;2024-09-10;Vitae cumque delectus possimus praesentium.
+252;52;Hospedagem;1260.48;2024-10-03;Ipsum reiciendis iusto consequuntur.
+253;110;Transporte;560.37;2025-03-11;Labore quis repellat.
+254;94;Hospedagem;99.47;2024-10-07;Maxime vel perspiciatis.
+255;44;Viagem;539.09;2025-04-27;Possimus fuga porro possimus mollitia fugiat.
+256;18;Outros;2457.26;2025-06-30;Aut delectus iste.
+257;61;Equipamento;1607.07;2024-10-31;Accusamus possimus ullam quam.
+258;138;Hospedagem;1607.27;2025-04-08;Quia laborum veritatis a ipsam iure.
+259;136;Viagem;2235.75;2024-11-15;Quisquam quasi quis ab praesentium.
+260;29;Refeição;574.31;2025-07-03;Quo qui consequuntur perferendis tenetur.
+261;51;Equipamento;2292.5;2025-02-19;Voluptatem est at.
+262;144;Transporte;780.15;2025-04-09;Vel iusto rerum officiis facere tenetur.
+263;193;Transporte;982.21;2025-07-28;Fugit ipsum magnam delectus quibusdam.
+264;139;Refeição;2067.49;2025-01-19;Est voluptatem cum odit dolor iusto.
+265;64;Transporte;2240.28;2025-03-08;Ea harum voluptatem in aspernatur.
+266;42;Viagem;2059.08;2025-01-01;At mollitia magnam modi voluptatibus.
+267;97;Viagem;2581.87;2025-02-20;Ex accusamus expedita cum cumque ipsum.
+268;186;Hospedagem;2463.11;2025-01-06;Tenetur dolorum inventore.
+269;111;Hospedagem;504.41;2025-06-25;Quisquam asperiores doloremque mollitia.
+270;98;Equipamento;2667.37;2025-01-21;Natus animi dolorum laudantium nulla corrupti.
+271;140;Hospedagem;204.52;2025-05-06;Dignissimos occaecati doloremque accusantium quam.
+272;64;Transporte;974.9;2024-09-21;Fuga incidunt deserunt deserunt iste.
+273;63;Equipamento;2118.79;2024-11-08;Aliquam eos neque odit dicta.
+274;89;Refeição;1102.74;2025-05-15;Odio dolor quisquam iusto quam facilis.
+275;195;Equipamento;2201.49;2025-03-15;Ratione adipisci totam.
+276;86;Outros;342.87;2024-09-21;Laboriosam eos ex dolores.
+277;76;Outros;2274.71;2025-01-27;Sunt dolorem iusto facere quidem.
+278;56;Equipamento;284.69;2025-07-11;Dolor deleniti doloremque repudiandae.
+279;62;Refeição;1002.78;2024-11-02;Amet quod ipsam laborum nam.
+280;15;Equipamento;1125.81;2025-08-23;Totam veniam eveniet fuga laborum ad.
+281;130;Equipamento;2964.99;2025-07-13;At expedita consectetur necessitatibus reiciendis expedita.
+282;10;Refeição;201.64;2024-12-15;Beatae eaque soluta sed accusantium.
+283;197;Transporte;2735.26;2025-06-12;Reprehenderit quasi veniam.
+284;112;Transporte;2652.73;2024-10-11;Modi hic similique a.
+285;97;Transporte;2521.01;2025-02-22;Fugiat ut laboriosam alias blanditiis aliquam.
+286;149;Equipamento;1096.84;2025-04-25;Adipisci dolorum aliquam eum.
+287;176;Hospedagem;118.28;2025-06-01;Cumque ducimus asperiores.
+288;54;Hospedagem;2952.51;2025-01-14;Sunt architecto nisi illum nulla.
+289;163;Transporte;2751.46;2024-10-31;Optio delectus commodi.
+290;97;Hospedagem;1260.63;2025-01-16;Laborum quod dolorum.
+291;190;Equipamento;1866.04;2025-01-07;Itaque quod ipsam nemo cumque.
+292;141;Transporte;1854.28;2024-12-14;Hic aliquid illum.
+293;188;Equipamento;2183.1;2025-08-09;Cumque possimus non tenetur nihil provident.
+294;68;Viagem;2109.95;2025-02-21;Doloremque tempore consectetur totam iusto voluptate.
+295;138;Refeição;2511.87;2024-09-11;Quam nostrum laudantium accusamus nostrum voluptates.
+296;1;Equipamento;2028.4;2024-10-07;Molestias perferendis nesciunt.
+297;75;Viagem;2310.78;2025-01-23;Nihil repellendus ab.
+298;137;Refeição;1618.98;2025-04-17;Velit architecto accusantium exercitationem accusantium ipsam.
+299;160;Transporte;2272.15;2025-08-25;Numquam similique culpa.
+300;59;Equipamento;1473.94;2025-04-11;Odio at quos cumque ullam.
+301;150;Viagem;731.73;2025-06-30;Soluta quos inventore perspiciatis.
+302;61;Refeição;1399.12;2025-08-03;Occaecati accusamus ipsum repudiandae.
+303;45;Viagem;161.25;2025-07-02;Laudantium minus omnis.
+304;96;Outros;1546.54;2024-11-20;Consectetur saepe maxime.
+305;199;Refeição;503.95;2024-11-24;Sed doloremque doloribus laboriosam voluptatem.
+306;152;Hospedagem;1136.3;2024-12-09;Cupiditate expedita rerum impedit enim.
+307;126;Equipamento;1326.59;2025-08-10;Quos ipsa nobis totam illo.
+308;162;Transporte;1564.08;2025-05-31;Iure nisi molestias ratione eligendi.
+309;172;Refeição;377.55;2024-12-29;Fuga eveniet tempora unde inventore.
+310;94;Viagem;260.75;2025-05-15;Nam itaque quasi dicta vitae esse.
+311;120;Hospedagem;54.2;2024-12-28;Hic expedita neque omnis cum itaque.
+312;59;Transporte;946.03;2025-03-09;Doloremque non sunt ipsum fugiat.
+313;8;Transporte;1570.21;2024-12-23;Ex blanditiis sequi quas.
+314;139;Viagem;77.15;2024-11-10;Id itaque dolor vero possimus.
+315;184;Transporte;1309.1;2024-09-17;Laudantium dignissimos error repellat debitis labore.
+316;159;Outros;2681.03;2025-01-08;Maxime blanditiis facilis dolor.
+317;116;Refeição;2374.76;2025-05-15;Nostrum natus earum distinctio.
+318;106;Transporte;1924.55;2024-10-24;A neque hic unde porro.
+319;146;Refeição;2861.29;2025-07-12;Id modi debitis necessitatibus.
+320;70;Outros;205.05;2024-09-03;A nobis explicabo eum provident beatae.
+321;142;Viagem;308.04;2024-11-08;Tempore fuga quia iusto voluptatum.
+322;36;Refeição;1699.0;2025-04-20;Necessitatibus iusto officia.
+323;140;Outros;1509.58;2025-02-26;Dolore temporibus officiis.
+324;52;Viagem;2325.48;2024-09-24;Doloribus mollitia quisquam eum repellat.
+325;166;Refeição;809.1;2024-11-28;Porro animi voluptatibus illum.
+326;55;Transporte;1080.85;2024-10-10;Dolorem est tenetur aspernatur saepe.
+327;90;Hospedagem;2886.08;2025-07-18;Ullam occaecati neque ad ducimus.
+328;65;Hospedagem;1312.54;2025-08-23;Consequatur minima pariatur eveniet iste.
+329;169;Transporte;2626.01;2025-05-21;Quasi voluptatum facilis.
+330;167;Refeição;1589.28;2024-12-12;Tenetur illo voluptatibus quasi.
+331;74;Viagem;1355.18;2024-11-14;Numquam dolorum accusamus earum possimus.
+332;91;Hospedagem;2613.08;2025-03-18;Recusandae ullam occaecati voluptas.
+333;149;Viagem;1684.36;2024-11-09;Consequuntur distinctio officia.
+334;37;Hospedagem;2359.56;2024-10-31;Quae commodi reprehenderit.
+335;129;Viagem;2945.04;2025-07-28;Eius architecto autem necessitatibus.
+336;141;Outros;1722.41;2025-01-02;Perferendis ratione facilis quidem eum.
+337;42;Equipamento;2966.59;2025-08-05;Sed eum veritatis officiis officia necessitatibus.
+338;21;Transporte;316.46;2025-01-29;Sed sit dicta.
+339;90;Transporte;669.05;2024-12-15;Quis nihil incidunt libero tempora eveniet.
+340;178;Transporte;1705.58;2025-04-24;Sint quis explicabo.
+341;57;Outros;132.36;2025-04-14;Nemo delectus porro totam voluptatibus architecto.
+342;191;Transporte;2432.43;2025-08-05;Facere porro commodi rem dolorum inventore.
+343;8;Hospedagem;819.63;2025-02-26;Incidunt dolore cupiditate facere.
+344;30;Transporte;1100.03;2025-06-30;Cupiditate velit dignissimos.
+345;184;Refeição;1332.3;2025-01-29;Cupiditate officia quisquam iure.
+346;179;Hospedagem;323.56;2025-02-09;Maxime cumque harum eligendi quasi.
+347;26;Equipamento;1812.31;2024-09-25;Laudantium numquam similique quia nam.
+348;86;Outros;1157.53;2025-02-07;Officiis amet veniam.
+349;109;Equipamento;2257.81;2024-11-07;Reiciendis aspernatur dolore modi nulla delectus.
+350;33;Outros;103.43;2025-07-20;Asperiores vero culpa magnam.
+351;154;Hospedagem;2934.54;2024-10-22;Ad fugit quia tempore fugit asperiores.
+352;25;Transporte;724.81;2024-10-07;Amet distinctio debitis tempora.
+353;118;Refeição;2109.2;2025-05-31;Non error hic.
+354;9;Outros;718.0;2025-02-20;Fugit eligendi quasi corporis voluptas quo beatae.
+355;192;Equipamento;1199.11;2025-01-28;Sunt quae aperiam temporibus ad inventore.
+356;103;Outros;2095.6;2025-03-19;Harum eos aliquid accusamus sed.
+357;100;Equipamento;1183.94;2025-01-18;Voluptatibus deleniti voluptatum quam.
+358;129;Outros;934.1;2024-10-06;Explicabo quia occaecati voluptatem.
+359;139;Outros;910.98;2024-09-14;Veritatis molestiae corporis iste odit.
+360;8;Equipamento;449.51;2024-12-22;Recusandae quasi vero.
+361;35;Refeição;873.2;2025-02-04;Impedit natus adipisci magnam beatae quo.
+362;150;Outros;2726.61;2025-07-02;Impedit placeat eos quo dignissimos in.
+363;23;Refeição;2818.51;2025-04-09;Iusto magni veniam ipsum.
+364;200;Hospedagem;1303.4;2024-09-12;Adipisci doloribus voluptatum culpa.
+365;54;Equipamento;367.32;2025-06-19;Eius ex minima animi.
+366;153;Refeição;2990.95;2025-08-14;Sapiente ad pariatur asperiores vitae.
+367;109;Viagem;576.13;2024-09-28;Quos totam cumque quisquam.
+368;104;Outros;1255.39;2024-12-21;Aspernatur atque rerum itaque reiciendis modi.
+369;181;Outros;2178.37;2025-07-11;Voluptas voluptates repellendus qui.
+370;104;Outros;1085.86;2024-11-14;Ipsum ea nisi aliquid beatae veniam.
+371;101;Equipamento;2599.66;2025-05-10;Voluptate expedita labore.
+372;83;Refeição;1082.1;2025-08-10;Distinctio sint exercitationem.
+373;37;Equipamento;2225.89;2024-10-24;Rerum velit doloribus ad ea quo.
+374;136;Refeição;360.53;2024-09-02;Nostrum cumque magni officiis officia voluptates.
+375;90;Outros;1261.75;2024-12-01;Minus ipsa a ullam ullam.
+376;47;Viagem;1253.05;2025-06-24;Esse quas ab blanditiis.
+377;36;Outros;1823.87;2025-02-26;Ratione ipsam quidem expedita perferendis at.
+378;137;Viagem;1262.43;2025-08-31;Similique ut totam facere quod laboriosam.
+379;183;Viagem;2911.3;2025-02-24;Natus corporis iure.
+380;27;Refeição;2755.66;2025-02-19;Vitae minima reiciendis.
+381;29;Viagem;1059.98;2025-05-03;Minima architecto corrupti vel.
+382;96;Transporte;1301.89;2025-08-01;Dolorum at ad delectus consequatur.
+383;66;Hospedagem;54.15;2025-07-11;Architecto enim officia exercitationem.
+384;174;Outros;879.04;2025-06-10;Fuga esse soluta cum.
+385;124;Outros;999.4;2025-01-04;Aperiam libero hic.
+386;159;Equipamento;206.7;2025-01-16;Incidunt voluptates architecto.
+387;74;Outros;2304.81;2025-01-19;Sequi sequi natus earum enim.
+388;96;Refeição;1516.99;2025-02-08;Maxime asperiores odit officiis accusamus quisquam.
+389;37;Outros;1642.76;2024-10-08;Facilis quasi quia temporibus.
+390;111;Equipamento;1967.4;2024-10-19;Fugiat sequi maiores accusantium est minima.
+391;179;Hospedagem;1922.16;2025-08-19;Sapiente dolor facere consequatur labore cum.
+392;49;Viagem;1582.71;2025-01-21;Enim est ipsa.
+393;166;Outros;1528.02;2025-07-26;Aspernatur quidem quia consectetur.
+394;100;Viagem;1959.8;2025-03-05;Occaecati ducimus ad commodi laborum laboriosam.
+395;133;Viagem;2049.39;2024-09-21;Sapiente laudantium minima sapiente.
+396;113;Outros;2161.04;2025-06-30;Culpa accusamus architecto.
+397;73;Hospedagem;517.24;2025-01-21;Illo dolorem fuga soluta.
+398;31;Equipamento;2799.9;2025-04-14;Expedita quod quos atque asperiores.
+399;143;Hospedagem;90.7;2025-06-07;Cupiditate illo ipsum minima.
+400;101;Equipamento;2960.09;2025-02-11;Dolorum dolores eligendi veniam veritatis animi.
+401;16;Hospedagem;1132.95;2025-07-14;Magni consequatur quia optio itaque.
+402;126;Viagem;580.63;2025-07-16;Nobis assumenda quasi.
+403;70;Viagem;1825.57;2024-11-13;Sapiente quisquam saepe deserunt enim.
+404;171;Hospedagem;112.64;2024-11-25;Eligendi tenetur eius iure expedita nemo.
+405;125;Hospedagem;2425.88;2025-08-18;Modi quam laboriosam.
+406;149;Hospedagem;886.85;2025-06-04;Cum fuga quam magnam aliquid.
+407;125;Viagem;881.19;2025-04-29;Eum ab quo rem molestias aspernatur.
+408;46;Hospedagem;116.35;2024-12-23;A iste non.
+409;80;Hospedagem;1311.15;2025-03-01;Veniam facere eligendi.
+410;62;Viagem;144.4;2024-11-30;Quos perferendis quasi consequatur omnis.
+411;171;Equipamento;2400.38;2025-06-26;Voluptate perspiciatis quidem nihil.
+412;152;Refeição;2027.15;2024-09-26;Quae nostrum soluta beatae eaque culpa.
+413;141;Hospedagem;627.92;2024-11-20;Laboriosam itaque unde totam perferendis.
+414;153;Outros;886.22;2024-10-02;Animi pariatur pariatur quaerat dignissimos velit.
+415;23;Outros;665.72;2025-07-12;Sit ea dolorum aut omnis nobis.
+416;23;Hospedagem;1429.42;2024-09-01;Natus iste nesciunt dignissimos mollitia.
+417;84;Refeição;1699.0;2024-12-10;Commodi eum quos possimus.
+418;200;Viagem;2621.55;2024-11-06;Facilis eligendi nisi saepe.
+419;73;Refeição;1912.97;2025-05-03;Corporis voluptas nesciunt ullam ratione tempora.
+420;196;Refeição;804.77;2024-10-19;Officia nam porro ut molestiae fugit.
+421;95;Viagem;915.88;2024-09-21;Officia sapiente amet eveniet perspiciatis.
+422;133;Transporte;2836.6;2024-12-27;Repellendus illum rerum cupiditate itaque quasi.
+423;100;Equipamento;1154.54;2025-05-19;Et velit earum suscipit ullam harum.
+424;73;Equipamento;2931.73;2025-06-18;Odit nostrum quod deserunt fuga.
+425;11;Transporte;1995.75;2024-09-26;Ducimus reprehenderit voluptates nulla qui.
+426;50;Hospedagem;1959.86;2025-08-08;Sit quidem quaerat mollitia.
+427;54;Viagem;1762.63;2025-06-28;Expedita fugiat error officiis eveniet.
+428;158;Refeição;954.35;2025-03-09;Odit accusamus quidem.
+429;42;Hospedagem;2117.61;2025-08-03;Voluptas quidem optio voluptatibus ad maiores.
+430;102;Hospedagem;1037.23;2024-10-21;Facilis assumenda dolores at sequi perferendis.
+431;121;Hospedagem;2293.54;2024-09-02;Alias fuga at aliquid.
+432;3;Transporte;2034.88;2025-01-17;Facilis commodi aspernatur eius blanditiis illo.
+433;70;Transporte;991.3;2025-03-10;Doloremque harum eos.
+434;33;Refeição;2751.25;2024-09-04;Sed culpa tempore praesentium cumque commodi.
+435;7;Transporte;1113.72;2025-04-11;Perspiciatis quia sint eum eius optio.
+436;163;Viagem;2193.0;2025-05-18;Qui vel exercitationem quo voluptates quasi.
+437;165;Outros;1425.01;2025-06-22;Error laborum excepturi.
+438;125;Viagem;1169.62;2025-04-23;Atque animi magnam dolor dolorum.
+439;12;Outros;457.04;2025-01-04;Deserunt deleniti nobis at reiciendis.
+440;52;Transporte;1465.71;2025-07-23;Amet at perferendis.
+441;21;Outros;2468.9;2025-02-08;Beatae reiciendis autem ad.
+442;14;Viagem;370.24;2025-01-17;Maxime pariatur vel reprehenderit ex.
+443;176;Hospedagem;2827.51;2025-01-19;Voluptatibus ipsa debitis maiores animi repudiandae.
+444;168;Outros;2705.43;2025-06-27;Ut totam amet repudiandae veritatis.
+445;3;Outros;1981.58;2024-12-26;Saepe commodi deleniti.
+446;57;Outros;1993.86;2025-02-06;Est doloribus natus.
+447;47;Equipamento;1273.72;2025-05-09;Illum et itaque delectus.
+448;56;Outros;2533.87;2025-07-14;Tempora laboriosam cum non provident.
+449;95;Viagem;2476.41;2025-04-06;Saepe veniam rerum fuga tenetur expedita.
+450;70;Hospedagem;2922.27;2025-05-31;Ratione delectus dolorum reiciendis numquam debitis.
+451;39;Viagem;2183.25;2024-11-02;Cum voluptate explicabo alias impedit.
+452;11;Hospedagem;1040.53;2025-05-23;Ex saepe iusto est beatae in.
+453;153;Transporte;1819.26;2024-10-08;Ipsam expedita aspernatur nulla similique.
+454;14;Refeição;1461.95;2025-02-14;Porro quisquam totam eos ad molestias.
+455;14;Equipamento;1793.26;2025-04-12;Pariatur ratione tempore.
+456;78;Transporte;1301.8;2025-01-22;Praesentium blanditiis ipsam.
+457;191;Refeição;2886.17;2024-10-03;In atque mollitia corrupti.
+458;130;Equipamento;2049.69;2025-03-28;Vero molestiae quas non aliquid.
+459;177;Viagem;1629.09;2025-04-29;Nesciunt veritatis officiis.
+460;159;Equipamento;1145.45;2024-11-29;Culpa doloremque soluta voluptatem a inventore.
+461;60;Viagem;2538.86;2025-03-25;Repellat doloremque iusto eligendi debitis.
+462;120;Refeição;180.75;2024-12-24;Quidem rerum quibusdam quod facere atque.
+463;28;Outros;490.73;2025-04-14;Voluptates adipisci sequi nulla.
+464;34;Refeição;1814.74;2025-05-26;Iusto laboriosam ipsum distinctio.
+465;178;Refeição;2544.44;2025-02-20;Ullam impedit maiores sapiente error.
+466;106;Transporte;412.52;2024-10-06;Odit accusantium voluptates magnam blanditiis.
+467;193;Equipamento;509.17;2024-11-12;Quod quas veniam.
+468;188;Outros;927.98;2024-11-15;Necessitatibus mollitia voluptatibus voluptas occaecati.
+469;20;Outros;1369.48;2024-10-02;Nulla aspernatur at libero iure ea.
+470;1;Outros;474.46;2025-08-26;Quos quas pariatur ullam fugit.
+471;138;Outros;994.15;2025-03-25;Velit aliquid voluptatum magni officiis.
+472;157;Hospedagem;806.69;2025-07-20;Sint facilis aliquam.
+473;168;Refeição;941.53;2025-04-19;Et assumenda modi reiciendis quae quia suscipit.
+474;42;Equipamento;2214.46;2025-05-02;In repellendus qui quo culpa eligendi.
+475;94;Refeição;2971.99;2024-11-27;Tenetur nostrum placeat.
+476;171;Outros;192.27;2025-04-14;Distinctio tempore voluptas.
+477;69;Equipamento;1942.33;2025-08-28;Laudantium velit deleniti commodi voluptates.
+478;88;Refeição;1713.44;2024-11-28;Dignissimos aut dolores deserunt.
+479;161;Outros;288.91;2025-02-07;Magni deleniti perferendis a quis at.
+480;32;Outros;965.0;2025-02-23;Voluptates dolore est tenetur.
+481;187;Equipamento;416.98;2024-11-28;Quae debitis molestias placeat odio.
+482;154;Transporte;2487.2;2025-01-05;Similique harum et.
+483;57;Refeição;1339.02;2025-07-08;Possimus architecto perferendis eos sit.
+484;47;Transporte;1384.67;2024-09-27;Minima odio praesentium natus officia fugiat.
+485;5;Viagem;1376.42;2025-07-16;Assumenda nam tempora.
+486;6;Viagem;1500.35;2025-07-29;Quidem quibusdam blanditiis dignissimos.
+487;77;Viagem;2282.6;2024-09-24;Sunt iusto velit laudantium vel.
+488;65;Refeição;1210.78;2025-01-14;Sapiente quos accusantium minima dolores.
+489;29;Outros;426.32;2024-09-02;Consequuntur numquam tempora distinctio nihil officia.
+490;81;Viagem;2516.26;2024-11-23;Delectus sequi aut unde optio ipsum.
+491;143;Viagem;145.87;2024-11-29;Rem earum illum suscipit odit.
+492;48;Equipamento;2410.25;2025-07-02;Cum architecto eligendi.
+493;140;Equipamento;2743.14;2024-10-29;Autem sit ad.
+494;83;Transporte;1620.22;2025-03-20;Perspiciatis minus aperiam.
+495;8;Refeição;895.25;2024-09-30;Quia aspernatur nemo natus.
+496;28;Equipamento;2098.15;2025-01-09;Beatae a voluptas quae numquam nulla.
+497;114;Refeição;327.47;2025-07-30;Voluptate quis ipsa eaque fuga est a.
+498;85;Refeição;807.81;2025-08-15;Quos nemo eaque iure mollitia.
+499;40;Hospedagem;821.6;2024-12-17;Vitae ea molestiae cumque cum provident.
+500;141;Viagem;2373.14;2024-11-19;Velit laborum mollitia ut assumenda numquam.
+501;174;Equipamento;1014.43;2025-08-07;Ab earum est necessitatibus voluptatem vero.
+502;128;Outros;2577.81;2025-03-12;Placeat numquam dolorem ratione hic dolore.
+503;144;Refeição;1147.94;2025-02-22;Quam minus inventore quis.
+504;38;Viagem;2667.9;2024-09-01;Impedit alias qui aliquid.
+505;147;Hospedagem;331.09;2024-10-29;Aperiam magni modi.
+506;35;Transporte;1892.24;2025-02-06;Consequatur voluptate iste hic.
+507;127;Equipamento;1907.75;2025-01-17;Explicabo laboriosam soluta velit.
+508;159;Transporte;1930.94;2025-08-25;Eaque dolor consequatur et.
+509;6;Refeição;896.6;2025-05-09;Labore neque omnis reprehenderit.
+510;101;Equipamento;1434.5;2025-08-17;Quibusdam quaerat placeat.
+511;80;Viagem;2313.54;2025-02-28;Nihil rem nisi ex dicta.
+512;193;Refeição;418.51;2025-08-06;Minus iusto ratione officiis commodi dolorem.
+513;59;Equipamento;2894.47;2024-10-25;At cumque ducimus.
+514;62;Refeição;1959.66;2025-01-18;Officia non ex aut quisquam repellendus.
+515;117;Transporte;2156.46;2025-03-08;Optio cumque nesciunt dignissimos.
+516;4;Equipamento;510.48;2024-09-29;Dicta modi totam.
+517;18;Hospedagem;999.33;2025-03-08;Doloremque quis nostrum.
+518;52;Viagem;2858.22;2025-03-08;Dolorem maiores ipsa.
+519;73;Outros;616.7;2025-05-19;Ratione veritatis cumque repellat quod itaque.
+520;99;Hospedagem;2680.67;2025-05-22;Non perspiciatis asperiores quaerat nam.
+521;105;Refeição;1255.87;2024-10-06;Ex nisi totam incidunt.
+522;59;Refeição;399.78;2025-05-13;In quae accusamus.
+523;74;Viagem;2533.41;2024-09-05;Maiores maiores autem.
+524;166;Transporte;2757.7;2025-07-10;Modi sit perspiciatis accusantium dolorem sint.
+525;190;Outros;381.98;2025-07-28;Doloremque veniam doloribus commodi.
+526;94;Equipamento;87.35;2025-01-06;Maiores minus quis consequuntur debitis dignissimos.
+527;69;Hospedagem;1522.04;2025-05-18;Laudantium perspiciatis consequatur explicabo quos dicta.
+528;137;Outros;1322.65;2024-11-23;Corporis accusamus a.
+529;184;Refeição;970.03;2024-11-21;Consequatur recusandae quia autem.
+530;37;Equipamento;1663.83;2024-09-01;Maiores ducimus quis.
+531;146;Refeição;662.78;2025-08-11;Nemo natus modi.
+532;179;Refeição;2876.61;2024-09-12;Ad totam totam iste.
+533;96;Viagem;912.11;2025-05-27;Quidem in dolor praesentium.
+534;5;Viagem;667.05;2024-11-17;Sint nesciunt iusto ducimus magni aspernatur.
+535;168;Refeição;759.25;2024-10-11;Molestias provident nesciunt nobis.
+536;115;Refeição;2078.14;2024-12-13;Nisi vitae voluptates est.
+537;173;Outros;2876.22;2025-02-17;Voluptas dolore corporis perspiciatis sit atque.
+538;99;Outros;1128.97;2024-12-11;Maxime nulla ex maiores quod omnis minima.
+539;54;Outros;1071.0;2024-10-12;Non architecto expedita.
+540;14;Viagem;817.6;2024-10-21;Consequatur vero sapiente praesentium laudantium temporibus.
+541;151;Transporte;2114.65;2025-04-06;Necessitatibus illo dicta praesentium magni.
+542;186;Equipamento;1645.18;2024-09-17;Quidem qui amet recusandae sint odit.
+543;195;Hospedagem;1062.45;2025-02-07;Fugiat ea ex.
+544;78;Refeição;1774.28;2024-09-15;Blanditiis doloribus expedita dolorum.
+545;178;Refeição;1258.34;2025-08-05;Voluptas quia adipisci saepe numquam.
+546;184;Equipamento;2124.82;2024-10-11;In cum corporis soluta.
+547;112;Equipamento;501.62;2025-07-15;Tenetur amet blanditiis laborum quod ipsa.
+548;140;Hospedagem;2123.35;2024-12-01;Aliquam temporibus exercitationem at quod.
+549;50;Refeição;391.67;2025-07-25;Distinctio ut cumque.
+550;39;Hospedagem;430.9;2025-06-23;Magnam aut officiis nesciunt harum.
+551;88;Refeição;1062.73;2025-05-07;Voluptate atque tempora distinctio.
+552;92;Equipamento;1517.44;2024-11-10;Odit explicabo nisi et ratione.
+553;23;Viagem;2742.16;2024-12-13;Officiis ab dicta nesciunt.
+554;132;Viagem;917.96;2024-11-08;Sed corporis ipsa unde.
+555;142;Refeição;518.84;2025-08-20;Cum cupiditate iusto voluptas voluptatum.
+556;74;Hospedagem;646.24;2025-06-12;Quidem molestias architecto saepe quaerat.
+557;15;Transporte;496.5;2025-04-26;Dolorem dolores nobis aspernatur illum.
+558;22;Equipamento;2824.7;2025-03-30;Commodi reiciendis libero voluptate occaecati neque.
+559;88;Transporte;2461.53;2025-07-29;Quisquam itaque hic modi adipisci delectus.
+560;29;Outros;2670.85;2024-10-27;Culpa animi accusantium consequatur fuga cum.
+561;191;Outros;606.7;2024-10-02;Nisi aliquid officia iste quis.
+562;174;Transporte;1838.46;2025-02-02;Temporibus doloremque et sit in enim.
+563;137;Hospedagem;2725.32;2024-09-24;Harum cumque sit.
+564;62;Viagem;1804.48;2024-10-31;Praesentium expedita error accusantium dolor vitae.
+565;7;Transporte;2672.41;2024-09-08;Ratione optio placeat unde architecto.
+566;34;Outros;187.67;2025-04-23;Omnis perferendis dolorum iste laudantium debitis.
+567;72;Equipamento;1620.76;2025-05-11;Ex distinctio quam velit.
+568;133;Transporte;780.67;2025-04-30;Earum ut cum.
+569;147;Transporte;111.68;2025-01-15;Velit minima aperiam vel quasi.
+570;32;Hospedagem;1720.6;2024-09-11;Consectetur aliquid quas.
+571;5;Refeição;2586.56;2024-12-22;Minima modi nulla architecto eum.
+572;121;Equipamento;1024.16;2025-04-16;Ducimus exercitationem illum amet.
+573;176;Equipamento;1853.51;2025-08-27;Assumenda delectus neque ipsam.
+574;99;Outros;1557.0;2025-06-29;Delectus consequatur quidem maxime reprehenderit.
+575;126;Refeição;2380.39;2025-05-21;Necessitatibus earum ipsam.
+576;77;Refeição;681.83;2025-05-11;Error commodi quo illum aliquam.
+577;172;Hospedagem;1339.8;2024-10-26;Quas nobis sit labore.
+578;136;Outros;2114.6;2024-10-14;Id expedita unde nostrum.
+579;60;Refeição;1771.4;2024-11-14;Sunt nihil qui.
+580;184;Hospedagem;90.55;2024-09-24;Itaque ea numquam fugit.
+581;154;Viagem;682.62;2025-02-08;Ipsa culpa aperiam incidunt veniam numquam.
+582;79;Transporte;1546.92;2025-07-17;Impedit eius nemo officia tempora iste.
+583;98;Viagem;969.46;2024-11-29;Mollitia soluta ipsum vel vero.
+584;178;Refeição;1685.12;2025-01-11;Ab voluptates dolorem animi beatae.
+585;57;Transporte;1056.13;2024-10-28;Autem accusamus id temporibus doloribus.
+586;66;Refeição;474.8;2025-05-28;Quidem quis magnam totam quasi officia voluptatibus.
+587;29;Hospedagem;904.89;2025-03-22;Et sunt sequi cum vitae repellendus.
+588;13;Outros;1812.03;2024-10-16;Nemo omnis quibusdam.
+589;40;Outros;1703.01;2024-09-11;Vero a ad expedita.
+590;99;Equipamento;740.69;2025-05-01;Illum eius cumque.
+591;142;Equipamento;1662.47;2024-12-02;Reiciendis quos magnam facere ullam at autem.
+592;34;Refeição;2428.96;2025-08-06;Nisi optio eveniet repellendus minus.
+593;20;Equipamento;2982.64;2024-10-23;Ipsa numquam odio.
+594;95;Equipamento;325.05;2024-11-23;Cupiditate maxime ratione dolore.
+595;77;Transporte;858.6;2025-02-23;Enim fuga numquam reprehenderit ea aut.
+596;102;Hospedagem;2930.64;2025-05-28;Optio facilis natus ullam laboriosam temporibus.
+597;80;Outros;1795.3;2025-08-09;Natus in ipsam aperiam quia.
+598;103;Outros;1770.16;2024-11-14;Corporis nam corrupti harum.
+599;100;Equipamento;2896.67;2025-05-26;Sunt porro aspernatur rem illo.
+600;24;Refeição;185.81;2024-09-08;Quam veritatis libero accusamus eum placeat.
+601;183;Viagem;937.12;2025-01-05;Vel totam nemo.
+602;39;Outros;314.74;2024-11-25;Tempore illo enim.
+603;161;Transporte;1104.1;2025-07-05;Quod quas tenetur occaecati amet distinctio.
+604;3;Transporte;2667.96;2025-03-26;Possimus nisi similique possimus ipsam.
+605;68;Hospedagem;1084.34;2025-03-29;Aliquam sed non.
+606;49;Equipamento;2176.03;2025-03-02;Deserunt quis quisquam nostrum.
+607;2;Outros;1032.73;2025-03-31;Voluptatem eos corrupti eius libero.
+608;192;Viagem;2486.88;2025-04-24;Quis repellat harum ducimus veniam aperiam.
+609;39;Transporte;396.77;2025-04-02;Quam modi modi accusantium libero.
+610;123;Refeição;1715.66;2025-08-05;Excepturi fugit dolor sunt veritatis voluptatum.
+611;91;Transporte;2371.91;2025-06-03;Quos nemo soluta nulla.
+612;13;Outros;2998.78;2025-02-02;Doloribus temporibus eius.
+613;153;Equipamento;2889.47;2025-07-22;Magni repellat reprehenderit iusto provident.
+614;27;Viagem;2402.08;2024-12-04;Nulla ipsa ea consectetur dolores odio.
+615;114;Hospedagem;2300.6;2024-11-22;Enim laboriosam voluptatem itaque esse.
+616;181;Equipamento;1461.13;2025-02-22;Nobis fugit vitae.
+617;39;Equipamento;1714.67;2025-07-24;Sit possimus ullam omnis quo.
+618;68;Outros;560.39;2025-02-04;Explicabo omnis numquam.
+619;131;Outros;2930.08;2025-05-03;Consequuntur hic minus.
+620;141;Transporte;801.25;2025-06-05;Aperiam nobis sunt ex laboriosam.
+621;82;Viagem;691.31;2025-03-30;Quidem nulla nam pariatur dicta.
+622;92;Viagem;1406.84;2024-09-10;Vitae reprehenderit illo.
+623;105;Outros;942.94;2025-03-25;At dolor amet sit vitae.
+624;145;Refeição;707.9;2024-12-17;Vero mollitia nulla eum fuga voluptate.
+625;111;Equipamento;2726.27;2025-05-23;Iure repellat minus.
+626;15;Viagem;2135.66;2025-07-13;Quae architecto rerum necessitatibus.
+627;140;Equipamento;1923.92;2025-05-22;Magnam eos repellendus.
+628;6;Outros;2621.0;2025-01-07;Excepturi adipisci delectus beatae expedita consectetur.
+629;113;Transporte;1200.76;2024-11-08;Error iure nobis modi beatae.
+630;85;Refeição;2805.07;2024-10-13;Quidem quis fuga vel.
+631;111;Refeição;238.88;2025-01-05;Nemo pariatur impedit assumenda inventore saepe.
+632;114;Transporte;1706.65;2024-11-15;Ratione a ducimus eligendi aliquid.
+633;49;Hospedagem;1990.93;2025-05-08;Occaecati repellat commodi.
+634;94;Transporte;1351.24;2025-04-10;Est reprehenderit quam.
+635;165;Equipamento;2102.58;2025-01-29;Amet ratione minus suscipit quas.
+636;159;Viagem;1668.22;2024-11-15;Optio harum sit quae vitae blanditiis.
+637;129;Transporte;841.7;2025-08-02;Sapiente nobis iusto necessitatibus quis sit.
+638;32;Hospedagem;2212.0;2024-12-30;Quae ab beatae dolores repudiandae eaque.
+639;57;Viagem;2983.55;2024-12-17;Quisquam veniam voluptas beatae distinctio asperiores.
+640;155;Equipamento;2024.62;2025-04-01;Animi delectus temporibus dolor nobis.
+641;69;Viagem;369.47;2025-03-15;Quod iusto ab natus dolor itaque.
+642;28;Outros;1735.42;2024-11-12;Commodi quasi totam recusandae.
+643;119;Equipamento;990.09;2024-11-26;Recusandae assumenda eos corrupti ea provident.
+644;169;Viagem;1493.06;2024-09-28;Hic odit reprehenderit vel.
+645;83;Outros;1030.95;2025-01-13;Labore voluptates eos magni nulla ipsam.
+646;174;Outros;1794.38;2025-03-11;Atque hic sint corrupti quasi tenetur.
+647;166;Outros;922.34;2025-04-06;Qui cum aspernatur quaerat.
+648;188;Viagem;2826.67;2024-10-15;Ut ullam repudiandae.
+649;107;Outros;836.08;2025-02-08;Magnam veniam delectus commodi at assumenda.
+650;46;Transporte;2093.26;2024-09-28;Facilis in molestias.
+651;19;Transporte;2676.29;2025-01-12;Cum aspernatur facere tempora.
+652;179;Transporte;184.96;2024-11-09;Libero perspiciatis at consequatur debitis.
+653;100;Equipamento;97.49;2025-02-04;Illo quasi illo.
+654;22;Hospedagem;305.08;2025-01-03;Optio ducimus perferendis deserunt dolorum voluptas.
+655;179;Transporte;1247.69;2024-10-25;Blanditiis possimus occaecati.
+656;35;Outros;1119.2;2025-08-30;Temporibus numquam placeat quo sequi tenetur.
+657;90;Refeição;708.68;2024-11-30;Blanditiis labore autem porro impedit.
+658;133;Refeição;488.33;2024-12-07;Veniam quam ad omnis eius molestias ipsum.
+659;83;Hospedagem;1549.78;2025-05-27;Reprehenderit odio delectus sed repellat facilis.
+660;157;Equipamento;1898.76;2024-12-31;Fugit consequatur ut vel.
+661;95;Outros;1999.58;2025-06-21;Tempora blanditiis saepe dicta quas molestias.
+662;104;Transporte;456.64;2025-04-09;Velit labore officiis reiciendis ipsa nostrum.
+663;148;Outros;2384.99;2024-10-04;Quisquam tenetur voluptatibus maxime earum.
+664;97;Transporte;2076.16;2024-11-25;Vitae quod cumque magnam et.
+665;120;Equipamento;940.12;2024-11-04;Officia praesentium voluptate incidunt laborum velit.
+666;114;Viagem;268.9;2024-12-02;Ipsum dolores molestias ea laborum.
+667;129;Hospedagem;132.82;2025-08-01;Qui explicabo temporibus architecto quas.
+668;138;Refeição;2826.22;2024-11-02;Ut explicabo ducimus.
+669;20;Hospedagem;1752.99;2024-09-20;Nesciunt fugiat ipsam asperiores deserunt.
+670;159;Equipamento;1990.55;2025-03-08;Distinctio quibusdam quae.
+671;147;Viagem;1999.92;2025-03-23;Doloribus modi cumque.
+672;19;Refeição;216.61;2025-05-23;Earum quo exercitationem vero ex consequatur.
+673;36;Equipamento;1221.07;2025-05-06;Animi vel natus sunt quae eaque.
+674;169;Viagem;1368.61;2025-08-26;Dolores perferendis dignissimos.
+675;106;Viagem;58.18;2025-05-20;Placeat vitae quasi eius aspernatur.
+676;75;Transporte;2677.76;2025-08-09;Laboriosam quas pariatur distinctio alias error.
+677;86;Refeição;2992.52;2025-05-08;Blanditiis numquam tenetur.
+678;55;Refeição;1215.03;2025-06-10;Saepe debitis rem.
+679;197;Equipamento;2929.89;2025-02-05;Impedit quia consequuntur totam nihil.
+680;191;Viagem;2049.45;2025-03-08;Perspiciatis alias quaerat molestiae maiores sed.
+681;169;Equipamento;2777.76;2025-08-04;Provident earum at.
+682;142;Transporte;1037.15;2025-07-28;Quia saepe repudiandae consequuntur vero error.
+683;136;Viagem;144.75;2024-10-16;Voluptatem aut nisi.
+684;44;Viagem;1814.05;2025-03-19;Molestias illum nihil.
+685;192;Viagem;2317.61;2025-05-19;Iure magnam corrupti odit modi veritatis.
+686;117;Refeição;1549.23;2025-02-08;Quaerat nisi officia accusamus aliquid.
+687;147;Refeição;1160.79;2024-11-24;Vel officiis dolor.
+688;172;Transporte;1858.07;2025-05-26;Sit quos animi maiores.
+689;71;Outros;659.77;2025-06-19;Ullam cum animi dolorum tempora.
+690;191;Transporte;1513.84;2024-12-16;Dicta quas dolore.
+691;129;Outros;1198.09;2025-01-12;Corporis quis nostrum cum cum accusantium.
+692;102;Transporte;1392.69;2025-04-04;Dolor provident officiis dolor quo officiis unde.
+693;77;Viagem;131.78;2024-12-02;Numquam quaerat laboriosam.
+694;29;Refeição;2160.82;2024-09-13;Quae harum aut voluptas tenetur.
+695;69;Equipamento;683.25;2024-12-25;Delectus asperiores asperiores.
+696;81;Transporte;1789.26;2024-10-02;Provident dolorum eligendi libero.
+697;159;Transporte;1869.96;2025-03-20;Harum ipsa ex.
+698;61;Viagem;2638.69;2025-07-06;Est necessitatibus iure dignissimos.
+699;126;Transporte;2299.22;2025-02-26;Consectetur tempore quibusdam.
+700;192;Equipamento;1372.33;2024-12-25;Non placeat minima architecto sapiente excepturi.
+701;76;Outros;2045.57;2025-03-12;Exercitationem blanditiis maiores at.
+702;132;Transporte;639.42;2025-07-10;Odio in quasi.
+703;13;Viagem;1278.83;2025-05-22;Optio ducimus enim.
+704;134;Refeição;2069.0;2024-12-03;Similique officiis dolores totam eos doloremque.
+705;95;Equipamento;993.08;2025-04-11;Quas facere velit.
+706;164;Hospedagem;975.58;2024-12-23;Quae quam dignissimos id ratione dolorum.
+707;109;Hospedagem;2581.89;2025-02-15;Porro adipisci quisquam doloremque omnis illum.
+708;163;Outros;1244.59;2025-04-25;Adipisci error eius.
+709;67;Viagem;2872.03;2024-12-03;Quod dolorem architecto quibusdam.
+710;49;Viagem;1099.91;2025-06-30;Qui veniam doloribus.
+711;121;Equipamento;354.35;2025-03-05;Asperiores dolorem consequuntur ut.
+712;73;Equipamento;1823.58;2025-01-02;Id rerum iusto delectus non.
+713;89;Transporte;96.92;2025-04-17;Est vitae alias velit unde.
+714;72;Outros;2211.44;2024-10-22;Maiores hic soluta laborum.
+715;65;Equipamento;64.46;2025-05-01;Nobis voluptate architecto.
+716;141;Hospedagem;281.63;2024-11-02;Impedit adipisci iure.
+717;82;Transporte;2740.98;2024-12-07;Optio officia magnam id atque.
+718;134;Transporte;1256.68;2024-09-17;Expedita totam a quo.
+719;88;Hospedagem;2008.3;2025-03-18;Corporis vitae recusandae vitae id.
+720;138;Refeição;1386.58;2025-08-09;Qui aperiam aut voluptas.
+721;90;Viagem;1131.16;2025-05-13;Quaerat ducimus cupiditate vitae porro.
+722;156;Equipamento;1158.08;2024-12-21;Animi id doloribus quod voluptate.
+723;195;Viagem;823.86;2024-09-10;Nisi quasi libero.
+724;178;Hospedagem;2101.18;2025-06-30;Reprehenderit optio dicta.
+725;43;Viagem;1286.59;2025-02-21;Officia in dolor assumenda.
+726;146;Outros;943.09;2025-08-03;Voluptas ad unde.
+727;182;Transporte;2681.17;2025-04-08;Eaque delectus tempore fugit accusamus nostrum.
+728;1;Viagem;293.35;2025-07-26;Possimus nostrum unde numquam.
+729;141;Equipamento;1189.1;2025-05-10;Doloremque necessitatibus cum dolorem.
+730;106;Equipamento;819.02;2024-11-10;Vel tempore cum recusandae.
+731;71;Hospedagem;333.87;2024-10-22;Possimus nisi odit asperiores distinctio et.
+732;60;Equipamento;2313.1;2024-10-12;Ut alias expedita.
+733;184;Equipamento;2394.12;2025-08-05;Eligendi suscipit perspiciatis fugiat dolores.
+734;134;Equipamento;1340.76;2024-10-24;Possimus eaque similique mollitia.
+735;144;Viagem;2891.71;2024-09-27;Officia molestias eligendi excepturi veritatis.
+736;95;Hospedagem;2388.9;2024-09-26;Modi aliquid sint explicabo.
+737;116;Transporte;2535.29;2024-12-08;Minus non doloremque occaecati.
+738;172;Equipamento;920.77;2024-10-22;Quos laborum libero sunt dignissimos.
+739;66;Equipamento;1094.36;2024-09-23;Beatae architecto saepe.
+740;150;Equipamento;909.89;2024-12-28;Deserunt illum harum.
+741;157;Viagem;2765.31;2024-09-03;Nisi cupiditate veniam tempora nam.
+742;96;Refeição;1494.18;2024-10-08;Dolor non neque.
+743;70;Equipamento;906.23;2025-08-05;Dolorem ratione dolorem alias eum.
+744;13;Transporte;2709.84;2024-09-02;Libero voluptatem animi mollitia ab.
+745;188;Hospedagem;534.24;2024-10-16;Corrupti consequatur ducimus.
+746;154;Outros;627.4;2024-09-12;Voluptates amet natus a quasi cum.
+747;187;Hospedagem;290.52;2025-03-22;Labore aperiam hic nihil similique.
+748;94;Viagem;2342.37;2025-04-01;Voluptates numquam ullam inventore maiores.
+749;96;Refeição;1567.02;2025-03-04;Quo aut necessitatibus exercitationem et commodi.
+750;102;Viagem;1829.14;2025-06-18;Aliquid amet perspiciatis harum sapiente.
+751;116;Equipamento;67.28;2025-03-15;Hic earum numquam eaque.
+752;4;Refeição;1869.96;2024-09-23;Ea doloribus in.
+753;157;Hospedagem;1838.57;2024-11-14;Occaecati possimus pariatur iure quo ad.
+754;126;Hospedagem;2304.97;2025-02-14;Ipsum adipisci quidem.
+755;86;Outros;1398.77;2025-09-01;Impedit laudantium asperiores tempore exercitationem dolorem delectus.
+756;59;Refeição;489.56;2025-06-20;Tenetur deleniti facilis in fugiat.
+757;18;Outros;1573.97;2025-05-09;Numquam iusto exercitationem cum.
+758;75;Outros;1041.81;2024-10-31;Incidunt itaque voluptatum velit labore quae.
+759;198;Viagem;1199.05;2024-12-15;Perferendis sequi quam laborum qui occaecati.
+760;67;Outros;977.87;2025-08-05;At molestias quis.
+761;49;Hospedagem;875.61;2025-07-25;Quia libero numquam.
+762;173;Refeição;269.16;2024-12-12;Dolore vero nostrum iste ipsa voluptatibus.
+763;122;Outros;2160.14;2024-11-05;Omnis ea consectetur quo ipsa eum.
+764;112;Viagem;2587.33;2024-12-13;Consequatur facere quod delectus nostrum.
+765;133;Hospedagem;2737.37;2025-08-24;Dolorum accusantium sit fuga repellat.
+766;113;Viagem;2158.77;2025-03-17;Nostrum quidem in.
+767;182;Equipamento;1530.86;2025-03-05;Impedit repellendus sit.
+768;145;Equipamento;2759.32;2025-01-11;Animi nemo aliquid ullam.
+769;143;Outros;1369.79;2025-03-26;Repellendus dolorum iste sunt nulla quo.
+770;41;Equipamento;319.22;2025-08-11;Aliquam voluptas eos necessitatibus nobis.
+771;23;Equipamento;71.88;2024-12-20;Ipsa autem illum vero nesciunt officia.
+772;185;Equipamento;2740.65;2024-11-07;Repellat aspernatur fuga quaerat.
+773;41;Outros;2471.01;2024-12-23;Atque quam qui ab numquam at.
+774;118;Viagem;2031.55;2024-11-08;Veniam eveniet amet id.
+775;52;Refeição;676.0;2025-03-05;Aliquam fugiat ratione accusantium iure sequi.
+776;173;Hospedagem;2311.52;2024-10-25;Exercitationem voluptas voluptate perspiciatis.
+777;45;Equipamento;1594.67;2025-07-10;Cum incidunt vitae.
+778;29;Equipamento;2357.19;2025-02-04;Praesentium cumque officiis.
+779;170;Refeição;2105.7;2025-02-27;Assumenda magni eos.
+780;178;Equipamento;2833.78;2025-02-05;Veritatis numquam maxime suscipit dolor eos.
+781;154;Hospedagem;550.51;2025-01-06;Sed officia aliquid.
+782;146;Outros;760.47;2025-04-16;Saepe reprehenderit maxime nisi illo.
+783;199;Outros;2438.5;2025-06-03;Consectetur praesentium neque iure laboriosam.
+784;44;Transporte;324.94;2024-11-07;Molestias modi saepe placeat ipsa.
+785;107;Refeição;2219.22;2024-11-10;Consequatur sunt commodi ad.
+786;179;Refeição;1091.28;2024-10-08;Repellat tempora praesentium deserunt expedita.
+787;129;Transporte;1138.47;2024-10-26;Voluptates impedit recusandae laboriosam eveniet.
+788;7;Refeição;2997.64;2024-10-28;Ut explicabo voluptate veniam unde at.
+789;84;Outros;1135.44;2025-02-07;Cum vitae impedit ipsa sit.
+790;162;Hospedagem;173.87;2024-11-03;Officia rerum deserunt temporibus.
+791;88;Hospedagem;1144.48;2025-03-02;Quidem reprehenderit neque eaque.
+792;67;Outros;69.61;2025-06-29;Explicabo veritatis temporibus ab.
+793;67;Equipamento;882.87;2025-01-23;Rerum ut quod.
+794;67;Outros;145.29;2025-08-06;Quisquam nostrum possimus.
+795;103;Viagem;1443.95;2024-12-02;Pariatur maiores eligendi minima magnam laudantium.
+796;63;Transporte;285.3;2025-07-31;Maxime neque laboriosam quidem vitae odit.
+797;119;Transporte;2806.45;2025-07-14;Aperiam veniam eum facilis atque possimus.
+798;89;Transporte;2079.55;2025-07-17;Aliquam praesentium quasi eos necessitatibus quibusdam.
+799;4;Refeição;1965.25;2025-03-12;Dolor ducimus totam quaerat.
+800;72;Refeição;1784.8;2025-07-07;Praesentium et fuga voluptatibus eos vel.
+801;189;Viagem;2512.77;2025-05-01;Excepturi porro consequuntur voluptas recusandae.
+802;151;Transporte;1527.49;2025-05-23;Excepturi pariatur neque.
+803;92;Hospedagem;2880.7;2025-03-30;Porro quibusdam quaerat dolorum.
+804;167;Viagem;466.75;2025-04-03;Laborum sit corrupti sapiente debitis.
+805;68;Refeição;73.4;2024-09-24;Libero itaque odit.
+806;67;Hospedagem;2082.59;2025-02-15;Ea laboriosam pariatur.
+807;19;Equipamento;2558.89;2024-09-13;Fugiat ab cupiditate nesciunt adipisci.
+808;107;Hospedagem;1123.27;2025-07-21;Iste non non deleniti laboriosam.
+809;170;Refeição;644.08;2024-11-06;Illo labore dolorem distinctio.
+810;133;Refeição;1411.67;2025-04-21;Incidunt explicabo tempora maiores tempore.
+811;194;Viagem;2815.42;2025-04-19;Quidem aut sit incidunt explicabo ut.
+812;16;Hospedagem;1624.58;2024-11-07;Eaque quam hic minima maxime.
+813;113;Refeição;1738.94;2025-01-08;Magni animi repudiandae natus.
+814;96;Viagem;162.88;2025-02-13;Excepturi quidem adipisci nihil eligendi.
+815;60;Viagem;754.82;2025-01-30;Quis neque enim.
+816;139;Transporte;1607.05;2024-09-13;Commodi fugit ullam similique odio iusto.
+817;93;Refeição;948.62;2025-04-08;Et esse eum ea.
+818;65;Outros;1908.68;2025-05-10;Sequi repellendus modi corporis.
+819;35;Transporte;454.93;2025-01-25;Placeat officiis provident.
+820;194;Equipamento;1137.25;2025-03-23;Eveniet veniam necessitatibus rem.
+821;50;Outros;475.53;2024-09-11;Beatae labore vel cum laudantium.
+822;154;Hospedagem;1264.83;2024-12-07;Modi rem esse.
+823;5;Transporte;915.77;2025-07-05;Amet magni non sit recusandae.
+824;19;Viagem;2040.93;2025-01-05;Impedit labore culpa.
+825;18;Viagem;2463.27;2025-02-28;Veniam alias magni provident dolorem.
+826;62;Equipamento;2863.82;2025-05-19;Harum optio accusamus possimus laudantium consectetur.
+827;60;Outros;926.51;2025-02-19;Nostrum enim nihil ipsam molestias omnis.
+828;7;Equipamento;2009.38;2025-04-11;Enim veniam accusantium nobis iste sequi.
+829;191;Viagem;2719.18;2024-09-28;Deserunt tempore iste temporibus.
+830;196;Viagem;2748.1;2025-08-08;Nesciunt ducimus quae nostrum iure veritatis.
+831;92;Viagem;2712.29;2025-07-08;Accusantium aliquid dignissimos assumenda expedita.
+832;188;Viagem;1673.36;2024-11-12;Eius itaque temporibus magnam tempora nobis.
+833;74;Refeição;2327.36;2025-04-18;Odit necessitatibus fugiat blanditiis.
+834;196;Outros;1386.43;2024-12-13;Ea a accusamus optio voluptatem.
+835;174;Outros;2333.56;2025-06-10;Animi accusantium adipisci eum.
+836;106;Equipamento;1501.45;2024-10-19;Ea voluptas neque.
+837;57;Viagem;2469.51;2024-09-15;Fugit minus commodi harum.
+838;157;Refeição;2180.12;2025-05-31;Libero rerum dolor rem quasi cum.
+839;29;Transporte;2537.88;2025-02-06;Voluptate ab facere.
+840;144;Hospedagem;829.06;2025-01-01;Occaecati consequatur blanditiis at nesciunt fugit.
+841;19;Equipamento;2783.39;2024-10-04;Vero voluptas rem quia nemo.
+842;116;Refeição;152.27;2025-07-22;Amet voluptatem numquam quo laborum est dolor.
+843;27;Hospedagem;2129.71;2025-04-02;Maxime beatae ea.
+844;10;Transporte;424.05;2025-04-09;Dolorum esse nihil.
+845;119;Viagem;2868.4;2024-11-24;Numquam error architecto saepe quo quo.
+846;32;Refeição;2416.0;2025-07-31;Omnis suscipit quidem facilis consequuntur doloribus.
+847;180;Refeição;1448.34;2025-06-02;Atque natus recusandae eaque nemo necessitatibus.
+848;69;Refeição;899.73;2024-12-19;Fuga iste enim.
+849;162;Refeição;1118.75;2025-05-31;Laboriosam dignissimos consequatur dolor repellendus nihil.
+850;116;Hospedagem;1040.4;2025-03-06;Nisi sint laborum.
+851;136;Outros;941.99;2025-02-03;Eum culpa corrupti tempora odio minima.
+852;152;Equipamento;1507.52;2025-01-11;Adipisci doloremque inventore.
+853;158;Hospedagem;778.13;2024-11-27;Blanditiis veniam possimus laboriosam dolores consectetur.
+854;136;Equipamento;1111.95;2024-12-16;Soluta magnam quam magni.
+855;134;Equipamento;2397.79;2025-08-02;Architecto exercitationem eos ratione consequatur id.
+856;105;Refeição;797.3;2025-03-22;Ipsa dolores numquam qui error possimus.
+857;172;Transporte;2015.45;2024-09-12;Eos rem aspernatur.
+858;88;Refeição;2507.9;2025-02-02;Accusantium quod ipsa totam sint quos.
+859;194;Transporte;1949.32;2025-01-18;Aspernatur sint expedita.
+860;4;Equipamento;2897.42;2024-09-24;Exercitationem similique optio debitis.
+861;153;Hospedagem;2667.76;2024-11-01;Veniam tempore error hic.
+862;73;Refeição;2210.15;2025-04-09;Adipisci rerum animi odit atque error.
+863;59;Refeição;1396.51;2024-12-28;Nostrum nesciunt iusto perspiciatis.
+864;64;Refeição;2246.42;2024-09-09;Officiis totam quidem dolorem veritatis quisquam.
+865;170;Hospedagem;2420.04;2025-07-08;Exercitationem eveniet dolorum placeat eos.
+866;126;Viagem;1293.87;2024-12-06;Totam quo error.
+867;120;Refeição;2589.09;2024-12-27;Expedita quisquam necessitatibus sequi minima.
+868;46;Outros;533.32;2024-12-13;Eum iste reiciendis quasi.
+869;40;Transporte;1348.76;2025-07-05;Blanditiis iure deleniti animi possimus sequi.
+870;9;Hospedagem;2633.0;2025-03-15;Cum debitis minima.
+871;156;Transporte;1474.7;2024-12-29;Dolorem tempore labore aspernatur.
+872;56;Equipamento;2756.93;2025-01-15;Tenetur quae quaerat illo modi.
+873;178;Viagem;1688.22;2025-01-07;Tempora ad quam corporis.
+874;41;Equipamento;1082.34;2025-02-25;Ex ex sunt ratione illum.
+875;95;Viagem;965.3;2025-01-16;Cum soluta quaerat aspernatur facere.
+876;199;Outros;1862.0;2025-04-24;Culpa eius consequuntur voluptatem libero.
+877;128;Refeição;382.21;2024-09-28;Id veniam quo.
+878;122;Hospedagem;488.78;2025-02-16;Perferendis doloribus aperiam consequuntur praesentium.
+879;24;Transporte;2736.46;2024-11-02;Numquam odio dolor inventore commodi dicta.
+880;59;Viagem;1037.63;2025-02-08;Sint rerum explicabo exercitationem fugiat.
+881;156;Transporte;1632.7;2025-08-29;Perspiciatis maiores cupiditate.
+882;61;Viagem;2332.3;2024-11-20;Amet optio consectetur vero veniam.
+883;96;Refeição;1627.83;2025-06-18;Quibusdam eos nam perspiciatis animi.
+884;68;Transporte;1837.84;2025-07-07;Quasi explicabo voluptatem voluptate.
+885;131;Outros;1641.06;2024-12-04;Sint vel perspiciatis ipsum quae.
+886;78;Outros;2115.15;2025-04-08;Voluptatem nam ipsa aut in.
+887;21;Transporte;2174.19;2025-07-15;Laboriosam molestias laborum enim cum.
+888;90;Hospedagem;2853.97;2024-09-04;Fuga laboriosam fugiat.
+889;82;Transporte;1814.15;2024-11-11;Voluptatem odio temporibus rem.
+890;26;Equipamento;64.67;2025-05-19;Eaque est eius tempora velit porro.
+891;81;Equipamento;1256.96;2024-09-29;Explicabo occaecati nesciunt cum impedit reiciendis.
+892;38;Hospedagem;2351.96;2024-09-13;Nam possimus cumque labore illo.
+893;108;Outros;1469.22;2025-03-14;Illo numquam illum eum nostrum.
+894;11;Hospedagem;2983.64;2025-04-06;Nesciunt harum accusantium.
+895;4;Transporte;1063.45;2024-12-03;Accusamus qui unde sunt omnis commodi.
+896;67;Viagem;2347.15;2025-07-19;Adipisci sed itaque quod dolorem.
+897;162;Refeição;2770.93;2024-12-14;Minus amet ipsum.
+898;38;Hospedagem;2716.44;2025-06-16;Ut reprehenderit labore.
+899;188;Viagem;128.75;2024-11-17;Dolores sint consectetur accusantium libero.
+900;102;Outros;2447.56;2024-10-27;Repellat rerum inventore harum.
+901;98;Outros;1375.63;2024-09-09;Iure excepturi illum ab tenetur.
+902;26;Transporte;2482.92;2025-05-29;Voluptatem beatae atque eligendi nam dicta.
+903;159;Outros;2048.8;2025-05-05;Ex fugiat natus voluptates.
+904;112;Viagem;2431.02;2024-11-17;Occaecati et molestiae perspiciatis beatae ab.
+905;45;Refeição;2850.7;2025-08-30;Inventore quaerat at fugiat accusantium.
+906;152;Outros;2547.63;2025-01-05;Aspernatur voluptatem quam harum nisi.
+907;14;Transporte;1719.38;2024-09-01;Hic quam necessitatibus eligendi harum soluta.
+908;40;Hospedagem;1262.81;2025-04-07;Architecto dicta voluptas culpa perspiciatis.
+909;97;Outros;583.2;2024-09-22;Eos alias nostrum cum.
+910;42;Hospedagem;2470.5;2024-12-05;Sint alias maiores ipsa.
+911;197;Transporte;748.27;2024-09-07;Dolores placeat perferendis excepturi.
+912;13;Hospedagem;1769.4;2025-02-28;Doloribus at rem ad similique ducimus.
+913;23;Outros;2730.62;2025-05-09;Animi deleniti non.
+914;173;Hospedagem;495.12;2025-03-01;Qui expedita praesentium placeat.
+915;73;Transporte;1795.44;2024-09-06;Doloremque tempora nihil.
+916;192;Hospedagem;118.56;2025-03-20;Inventore minima atque.
+917;194;Transporte;1983.3;2025-04-14;Voluptates a quia autem autem.
+918;92;Transporte;1584.45;2025-06-20;Ut sapiente velit accusamus vero.
+919;2;Viagem;2520.77;2025-07-30;Explicabo nostrum harum amet numquam porro.
+920;67;Hospedagem;2475.45;2025-08-15;Earum neque quaerat.
+921;176;Hospedagem;1701.44;2025-02-27;Sequi maiores sapiente voluptatum nihil quibusdam.
+922;169;Viagem;1247.67;2025-01-28;Officiis possimus hic.
+923;88;Equipamento;1243.67;2024-10-20;Laboriosam occaecati a praesentium.
+924;132;Outros;2817.07;2025-03-19;Dolorem maxime nihil eaque nam.
+925;126;Refeição;370.38;2025-06-10;A voluptates aperiam quia.
+926;84;Viagem;2740.11;2025-08-04;Praesentium modi tempore.
+927;193;Refeição;743.37;2024-10-09;Saepe adipisci perspiciatis tempora pariatur at.
+928;113;Refeição;1989.62;2025-08-24;Ab rem doloribus.
+929;187;Refeição;977.3;2025-03-21;Ut architecto doloremque.
+930;171;Refeição;860.85;2024-12-27;Similique velit eius.
+931;150;Transporte;618.35;2024-09-04;Porro amet ducimus vero.
+932;184;Viagem;2189.47;2025-02-18;Dolorum laborum laudantium soluta dolore veritatis.
+933;50;Transporte;1547.64;2024-12-31;Laboriosam natus architecto ullam.
+934;102;Outros;585.6;2024-09-07;In dolores nobis optio magni.
+935;103;Equipamento;976.8;2025-05-07;Voluptatibus veniam alias quod quam harum.
+936;87;Outros;1767.9;2025-02-10;Unde porro aperiam.
+937;136;Refeição;649.25;2025-08-11;Facere tenetur distinctio culpa maiores.
+938;49;Transporte;1487.09;2025-03-24;Itaque sit ab.
+939;121;Hospedagem;1409.56;2024-11-04;Corrupti vel ipsa.
+940;179;Hospedagem;2087.18;2025-03-16;Sint accusamus minus tempora soluta numquam.
+941;148;Hospedagem;183.21;2024-11-20;Officiis provident hic molestiae fugiat.
+942;45;Viagem;1200.23;2025-08-19;Corporis cupiditate porro ipsum ad.
+943;196;Outros;845.69;2024-11-13;Labore voluptas ad ad voluptatibus delectus.
+944;73;Viagem;2996.99;2024-12-26;Dolorem soluta ducimus suscipit qui.
+945;148;Viagem;1340.8;2025-05-19;Nulla excepturi ut aspernatur voluptatum.
+946;135;Equipamento;191.67;2025-02-25;Quisquam atque laudantium.
+947;36;Transporte;2719.69;2025-02-22;Enim quam id tenetur sint porro.
+948;113;Transporte;170.11;2024-12-11;Placeat cupiditate eum sapiente.
+949;41;Refeição;2802.0;2025-08-26;Nesciunt pariatur dignissimos eius.
+950;174;Refeição;2820.16;2025-04-27;Vitae esse odit dolore.
+951;186;Equipamento;2570.4;2025-03-21;Quas quae corporis.
+952;21;Outros;2515.56;2025-04-20;Inventore hic praesentium ducimus illo.
+953;105;Transporte;204.97;2024-11-11;Commodi voluptatum vitae.
+954;191;Transporte;316.3;2025-09-01;Dignissimos pariatur quibusdam accusamus.
+955;148;Hospedagem;323.05;2024-11-10;Quae corrupti omnis corrupti cum quibusdam.
+956;18;Hospedagem;1287.17;2025-01-26;Beatae animi totam.
+957;84;Transporte;1299.2;2025-07-15;Accusantium iure rem.
+958;100;Transporte;349.44;2024-09-17;Quibusdam ipsum animi ullam.
+959;195;Hospedagem;2830.8;2024-11-01;Esse quibusdam iusto maiores nam.
+960;131;Outros;614.9;2025-02-16;Provident incidunt ducimus voluptatum.
+961;194;Equipamento;1179.51;2024-10-13;Vero inventore nesciunt hic minima.
+962;39;Hospedagem;918.05;2025-07-11;Eaque eligendi a magni nemo.
+963;49;Outros;310.06;2025-02-03;Porro repudiandae tenetur officia incidunt.
+964;24;Transporte;1901.3;2025-08-27;Maxime facere aperiam error dolor.
+965;3;Equipamento;280.52;2024-09-03;Mollitia iure rerum.
+966;109;Viagem;2462.58;2024-10-23;Nam error corrupti.
+967;115;Hospedagem;803.26;2025-08-09;Autem sed quibusdam dolores.
+968;29;Viagem;2084.16;2024-09-04;Quae repellat repellat veritatis.
+969;31;Equipamento;2244.33;2024-11-24;Officiis vel error dolorem.
+970;117;Hospedagem;331.19;2025-07-24;Adipisci architecto perferendis.
+971;70;Viagem;1804.54;2024-11-12;Voluptatem ullam sequi perferendis.
+972;191;Refeição;2282.91;2025-08-09;Deserunt ducimus suscipit exercitationem facere.
+973;185;Equipamento;501.96;2024-10-10;Accusamus quia deleniti.
+974;6;Refeição;147.79;2025-08-30;Deserunt assumenda nisi.
+975;80;Hospedagem;801.75;2024-11-26;Quos officia incidunt.
+976;118;Hospedagem;1528.65;2024-12-04;Veritatis perspiciatis corporis maxime.
+977;180;Hospedagem;1979.03;2025-05-20;Eaque fugiat fugit officiis eum veniam.
+978;36;Refeição;1786.26;2025-03-28;Sapiente ad soluta accusamus.
+979;27;Outros;347.97;2025-07-23;Tenetur quaerat magnam minima quod.
+980;28;Transporte;1410.55;2025-01-22;Harum a quas.
+981;114;Viagem;2592.8;2025-06-11;Provident sapiente iusto.
+982;35;Transporte;1878.82;2025-08-03;Voluptates eligendi velit alias.
+983;142;Viagem;1523.37;2024-09-06;Minus itaque eligendi ducimus.
+984;140;Outros;449.11;2024-10-28;Officiis quidem magnam dolores provident.
+985;100;Hospedagem;338.88;2024-12-23;Explicabo dolor animi iure facilis.
+986;149;Hospedagem;1269.28;2025-05-08;Dignissimos velit nisi.
+987;97;Equipamento;2882.87;2024-11-04;Rerum eaque possimus ipsa amet non.
+988;148;Outros;1435.16;2024-12-26;Tempore facere ea.
+989;160;Transporte;2557.47;2025-01-17;Nesciunt porro ab deserunt hic.
+990;189;Transporte;2209.49;2024-11-03;Asperiores veniam cumque.
+991;200;Viagem;1998.33;2024-12-29;Quo fuga velit.
+992;94;Transporte;2928.81;2024-12-21;Ipsam itaque explicabo deserunt.
+993;12;Refeição;2714.15;2024-12-15;In voluptatibus porro harum dolores ipsam maiores.
+994;45;Refeição;2023.05;2024-12-15;Temporibus sed ratione cupiditate velit tempore.
+995;162;Transporte;1977.96;2024-11-20;Quas deleniti dolor atque cum.
+996;37;Outros;1929.48;2025-07-11;Reprehenderit quisquam labore.
+997;2;Outros;2486.87;2024-11-20;Est ab suscipit sint.
+998;117;Refeição;1437.18;2025-03-05;Sequi nesciunt ipsam.
+999;62;Hospedagem;2303.83;2025-02-18;Explicabo voluptate ducimus doloremque voluptates reprehenderit.
+1000;8;Hospedagem;389.14;2025-01-16;Pariatur libero doloribus a.

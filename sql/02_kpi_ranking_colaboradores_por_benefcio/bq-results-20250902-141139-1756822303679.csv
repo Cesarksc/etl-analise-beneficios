@@ -1,0 +1,61 @@
+nome_beneficio,id_colaborador,nome,gasto_total,pos
+Alimentação,53,Dr. Lucas Guerra,2693.26,1
+Alimentação,95,João Felipe Teixeira,1979.95,2
+Alimentação,182,Antônio Cavalcante,1958.27,3
+Alimentação,78,Sra. Mirella Fernandes,1741.6,4
+Alimentação,174,Felipe Barros,1729.84,5
+Alimentação,114,Henry Gabriel Cavalcante,1675.93,6
+Alimentação,46,Leonardo Sousa,1604.32,7
+Alimentação,20,Ester Rios,1599.58,8
+Alimentação,143,João Silveira,1578.04,9
+Alimentação,34,Maysa Siqueira,1480.61,10
+Bem-estar,170,Agatha Albuquerque,2247.98,1
+Bem-estar,8,Dra. Nicole Cunha,2064.82,2
+Bem-estar,119,Luna Santos,2017,3
+Bem-estar,10,Henry Gabriel Sá,1767.08,4
+Bem-estar,160,Thales da Mota,1726.96,5
+Bem-estar,178,Ana Júlia Cassiano,1706.06,6
+Bem-estar,132,Bruna Leão,1663.34,7
+Bem-estar,30,Sra. Clara Campos,1600.07,8
+Bem-estar,196,Milena Ramos,1555.76,9
+Bem-estar,83,Luana Mendes,1502.02,10
+Cultura,180,Lunna Duarte,1703.51,1
+Cultura,108,Mariane Ferreira,1623.76,2
+Cultura,2,Emanuelly Borges,1533.06,3
+Cultura,85,Marcos Vinicius Caldeira,1497.26,4
+Cultura,196,Milena Ramos,1433.48,5
+Cultura,175,Clara Correia,1432.19,6
+Cultura,178,Ana Júlia Cassiano,1408.37,7
+Cultura,93,Maysa Pacheco,1366.66,8
+Cultura,185,Rodrigo Pastor,1345.74,9
+Cultura,81,Ayla Fernandes,1331.21,10
+Educação,156,Eduarda Ferreira,2137.24,1
+Educação,109,Letícia Silva,1705.63,2
+Educação,83,Luana Mendes,1700.74,3
+Educação,19,Maria Luiza Caldeira,1681.56,4
+Educação,42,Dr. Felipe Leão,1663.61,5
+Educação,159,Vicente Abreu,1611.17,6
+Educação,33,Giovanna Barbosa,1592.84,7
+Educação,179,Henry Gabriel Duarte,1582.64,8
+Educação,87,Pedro Montenegro,1563.6,9
+Educação,84,Henry Gabriel Vieira,1499.95,10
+Mobilidade,109,Letícia Silva,2311.92,1
+Mobilidade,117,Laura da Luz,2265.65,2
+Mobilidade,24,Sofia Fernandes,2175.28,3
+Mobilidade,99,Luiza Fernandes,2102.54,4
+Mobilidade,31,Melissa Novais,1771.71,5
+Mobilidade,69,Liam Duarte,1765.01,6
+Mobilidade,85,Marcos Vinicius Caldeira,1683.54,7
+Mobilidade,171,Noah da Mata,1646.6,8
+Mobilidade,101,Samuel Mendonça,1631.03,9
+Mobilidade,161,Dr. Caleb Brito,1616.28,10
+Saúde,11,Pedro Henrique Novais,2255.68,1
+Saúde,12,Isadora Rios,2111.82,2
+Saúde,58,Maria Isis Jesus,1962.42,3
+Saúde,173,Aurora Cunha,1745.3,4
+Saúde,163,Gabriela Monteiro,1714.1,5
+Saúde,106,Theodoro das Neves,1687.42,6
+Saúde,141,Juan Fernandes,1678.13,7
+Saúde,62,Ana Lívia Borges,1651.66,8
+Saúde,81,Ayla Fernandes,1617.26,9
+Saúde,153,Luiz Gustavo Pastor,1531.99,10
